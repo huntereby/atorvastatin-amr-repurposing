@@ -1,0 +1,775 @@
+Drug,TargetGene,SwissUniProtID,SwissTargetName,SwissProbability,SuperPredUniProtID,SuperPredTargetName,SuperPredProbability,SuperPredModelAccuracy,Evidence
+Atorvastatin,ABCC1,NA,NA,NA,P33527,Multidrug resistance-associated protein 1,0.5033,0.9636999999999999,SuperPred only
+Atorvastatin,ABL1,NA,NA,NA,P00519,Bcr/Abl fusion protein,0.6986,0.8583,SuperPred only
+Atorvastatin,ACACA,NA,NA,NA,Q13085,Acetyl-CoA carboxylase 1,0.5164,0.9304000000000001,SuperPred only
+Atorvastatin,ADAM10,NA,NA,NA,O14672,ADAM10,0.8362999999999999,0.975,SuperPred only
+Atorvastatin,ADORA1,NA,NA,NA,P30542,Adenosine A1 receptor,0.7553,0.9593,SuperPred only
+Atorvastatin,ADORA2B,NA,NA,NA,P29275,Adenosine A2b receptor,0.5229,0.9859,SuperPred only
+Atorvastatin,AKR1C3,P42330,Aldo-keto-reductase family 1 member C3,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ANPEP,NA,NA,NA,P15144,Aminopeptidase N,0.7018,0.9331,SuperPred only
+Atorvastatin,APEX1,NA,NA,NA,P27695,DNA-(apurinic or apyrimidinic site) lyase,0.6886,0.9111,SuperPred only
+Atorvastatin,APH1A,NA,NA,NA,Q96BI3,Gamma-secretase,0.5797,0.9804999999999999,SuperPred only
+Atorvastatin,AURKB,NA,NA,NA,Q96GD4,Aurora kinase B/Inner centromere protein,0.6244,0.975,SuperPred only
+Atorvastatin,BACE1,P56817,Beta-secretase 1,0.0743922719035,P56817,Beta-secretase 1,0.5146999999999999,0.9734999999999999,SwissTargetPrediction + SuperPred
+Atorvastatin,BACE2,Q9Y5Z0,Beta secretase 2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,BCR,NA,NA,NA,P11274,Breakpoint cluster region protein,0.5392,0.7517999999999999,SuperPred only
+Atorvastatin,CA3,NA,NA,NA,P07451,Carbonic anhydrase III,0.5194,0.8745,SuperPred only
+Atorvastatin,CACNA1B,NA,NA,NA,Q00975,Voltage-gated N-type calcium channel alpha-1B subunit,0.7138,0.9714,SuperPred only
+Atorvastatin,CAPN1,NA,NA,NA,P07384,Calpain 1,0.5994999999999999,0.9304000000000001,SuperPred only
+Atorvastatin,CASP1,P29466,Caspase-1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CASP3,P42574,Caspase-3,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CASP6,NA,NA,NA,P55212,Caspase-6,0.8502,0.9756,SuperPred only
+Atorvastatin,CASP7,P55210,Caspase-7,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CASP8,Q14790,Caspase-8,0.0743922719035,Q14790,Caspase-8,0.7611999999999999,0.9706,SwissTargetPrediction + SuperPred
+Atorvastatin,CCR1,P32246,C-C chemokine receptor type 1,0.0743922719035,P32246,C-C chemokine receptor type 1,0.6393,0.895,SwissTargetPrediction + SuperPred
+Atorvastatin,CCR5,NA,NA,NA,P51681,C-C chemokine receptor type 5,0.532,0.9876999999999999,SuperPred only
+Atorvastatin,CDC25C,NA,NA,NA,P30307,Dual specificity phosphatase Cdc25C,0.7565999999999999,0.9666999999999999,SuperPred only
+Atorvastatin,CDK1,NA,NA,NA,P06493,Cyclin-dependent kinase 1/cyclin B,0.5359,0.96,SuperPred only
+Atorvastatin,CDK2,NA,NA,NA,P24941,CDK2/Cyclin A,0.6202000000000001,0.9138,SuperPred only
+Atorvastatin,CDK4,P11802,Cyclin-dependent kinase 4,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CDK5,NA,NA,NA,Q00535,Cyclin-dependent kinase 5/CDK5 activator 1,0.7866,0.9303,SuperPred only
+Atorvastatin,CFD,P00746,Complement factor D,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CFTR,NA,NA,NA,P13569,Cystic fibrosis transmembrane conductance regulator,0.747,0.9571000000000001,SuperPred only
+Atorvastatin,CHKA,NA,NA,NA,P35790,Choline kinase alpha,0.6117,0.78,SuperPred only
+Atorvastatin,CHRM1,NA,NA,NA,P11229,Muscarinic acetylcholine receptor M1,0.799,0.9423,SuperPred only
+Atorvastatin,CHRM3,NA,NA,NA,P20309,Muscarinic acetylcholine receptor M3,0.5263,0.9753000000000001,SuperPred only
+Atorvastatin,CHRM5,NA,NA,NA,P08912,Muscarinic acetylcholine receptor M5,0.5296,0.9461999999999999,SuperPred only
+Atorvastatin,CHRNB4,NA,NA,NA,P30926,Neuronal acetylcholine receptor; alpha4/beta4,0.8325,1,SuperPred only
+Atorvastatin,CMA1,P23946,Chymase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CNR1,P21554,Cannabinoid receptor 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CPT1A,P50416,"Carnitine O-palmitoyltransferase 1, liver isoform",0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CPT1B,Q92523,"Carnitine O-palmitoyltransferase 1, muscle isoform",0.0743922719035,Q92523,"Carnitine O-palmitoyltransferase 1, muscle isoform",0.585,0.8833,SwissTargetPrediction + SuperPred
+Atorvastatin,CPT2,P23786,Carnitine palmitoyltransferase 2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CSNK2B,NA,NA,NA,P67870,Casein kinase II alpha/beta,0.8369,0.9923000000000001,SuperPred only
+Atorvastatin,CTNNB1,P35222,Axin1/beta-catenin,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,CTSD,NA,NA,NA,P07339,Cathepsin D,0.9759,0.9895,SuperPred only
+Atorvastatin,CTSK,NA,NA,NA,P43235,Cathepsin K,0.5057,0.9684999999999999,SuperPred only
+Atorvastatin,CYP2A6,NA,NA,NA,P11509,Cytochrome P450 2A6,0.5813,0.7178,SuperPred only
+Atorvastatin,CYP3A4,P08684,Cytochrome P450 3A4,1,P08684,Cytochrome P450 3A4,0.5692,0.9118999999999999,SwissTargetPrediction + SuperPred
+Atorvastatin,CYSLTR2,NA,NA,NA,Q9NS75,Cysteinyl leukotriene receptor 2,0.6038,0.98,SuperPred only
+Atorvastatin,DCUN1D1,NA,NA,NA,Q96GG9,DCN1-like protein 1,0.521,0.95,SuperPred only
+Atorvastatin,DHODH,NA,NA,NA,Q02127,Dihydroorotate dehydrogenase,0.5230999999999999,0.9609000000000001,SuperPred only
+Atorvastatin,DPP7,NA,NA,NA,Q9UHL4,Dipeptidyl peptidase II,0.65,0.9229,SuperPred only
+Atorvastatin,DPP8,NA,NA,NA,Q6V1X1,Dipeptidyl peptidase VIII,0.8269,0.9721000000000001,SuperPred only
+Atorvastatin,DRD2,NA,NA,NA,P14416,Dopamine D2 receptor,0.5136,0.9561999999999999,SuperPred only
+Atorvastatin,DUSP3,P51452,Dual specificity protein phosphatase 3,0.0743922719035,P51452,Dual specificity protein phosphatase 3,0.5259,0.94,SwissTargetPrediction + SuperPred
+Atorvastatin,EDNRB,P24530,Endothelin receptor ET-B,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,EGLN1,Q9GZT9,Egl nine homolog 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ELANE,P08246,Leukocyte elastase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ENPP2,Q13822,Autotaxin,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ERAP1,NA,NA,NA,Q9NZ08,Endoplasmic reticulum aminopeptidase 1,0.6801,1,SuperPred only
+Atorvastatin,ESR2,Q92731,Estrogen receptor beta,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,F13A1,NA,NA,NA,P00488,Coagulation factor XIII,0.562,0.96,SuperPred only
+Atorvastatin,FDFT1,P37268,Squalene synthetase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,FFAR1,NA,NA,NA,O14842,Free fatty acid receptor 1,0.7389,0.9333,SuperPred only
+Atorvastatin,FKBP1A,P62942,FK506-binding protein 1A,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,FKBP5,Q13451,Peptidyl-prolyl cis-trans isomerase FKBP5,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,FLT1,NA,NA,NA,P17948,Vascular endothelial growth factor receptor 1,0.5114,0.9647,SuperPred only
+Atorvastatin,FLT3,NA,NA,NA,P36888,Tyrosine-protein kinase receptor FLT3,0.5075,0.9183,SuperPred only
+Atorvastatin,FOLR1,P15328,Folate receptor alpha,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,FPR1,NA,NA,NA,P21462,Formyl peptide receptor 1,0.7648,0.9356,SuperPred only
+Atorvastatin,FPR2,NA,NA,NA,P25090,Lipoxin A4 receptor,0.6941000000000002,1,SuperPred only
+Atorvastatin,GABRA1,NA,NA,NA,P14867,GABA-A receptor; alpha-1/beta-2/gamma-2,0.6907,0.9266999999999999,SuperPred only
+Atorvastatin,GBA2,NA,NA,NA,Q9HCG7,Beta-glucosidase,0.8756999999999999,0.99,SuperPred only
+Atorvastatin,GCG,P01275,Glucagon,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,GCK,P35557,Hexokinase type IV,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,GGPS1,NA,NA,NA,O95749,Geranylgeranyl pyrophosphate synthetase,0.5921,0.9208,SuperPred only
+Atorvastatin,GIPR,P48546,Gastric inhibitory polypeptide receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,GLRA1,NA,NA,NA,P23415,Glycine receptor subunit alpha-1,0.8748,0.9071000000000001,SuperPred only
+Atorvastatin,GPR55,NA,NA,NA,Q9Y2T6,G-protein coupled receptor 55,0.7909999999999999,0.7814999999999999,SuperPred only
+Atorvastatin,GRB2,P62993,Growth factor receptor-bound protein 2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,GRIA2,NA,NA,NA,P42262,"Glutamate receptor ionotropic, AMPA 2",0.7683,0.8692,SuperPred only
+Atorvastatin,GRIN1,NA,NA,NA,Q05586,Glutamate NMDA receptor; GRIN1/GRIN2B,0.7070000000000001,0.9589,SuperPred only
+Atorvastatin,GSTP1,NA,NA,NA,P09211,Glutathione S-transferase Pi,0.6422,0.9381,SuperPred only
+Atorvastatin,GUSB,NA,NA,NA,P08236,Beta-glucuronidase,0.6701999999999999,0.7767999999999999,SuperPred only
+Atorvastatin,HDAC1,Q13547,Histone deacetylase 1,0.404267952985,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,HDAC2,Q92769,Histone deacetylase 2,0.404267952985,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,HDAC6,Q9UBN7,Histone deacetylase 6,0.404267952985,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,HIF1A,NA,NA,NA,Q16665,Hypoxia-inducible factor 1 alpha,0.8404,0.8514,SuperPred only
+Atorvastatin,HMGCR,P04035,HMG-CoA reductase,1,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,HRH1,P35367,Histamine H1 receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,HSD11B1,P28845,11-beta-hydroxysteroid dehydrogenase 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,HSD17B10,NA,NA,NA,Q99714,Endoplasmic reticulum-associated amyloid beta-peptide-binding protein,0.6286999999999999,0.7016,SuperPred only
+Atorvastatin,HTR2A,NA,NA,NA,P28223,Serotonin 2a (5-HT2a) receptor,0.8444000000000002,0.9143000000000001,SuperPred only
+Atorvastatin,HTR7,NA,NA,NA,P34969,Serotonin 7 (5-HT7) receptor,0.5760000000000001,0.9071000000000001,SuperPred only
+Atorvastatin,IDO1,NA,NA,NA,P14902,"Indoleamine 2,3-dioxygenase",0.7225,0.9638,SuperPred only
+Atorvastatin,IKBKE,Q14164,Inhibitor of nuclear factor kappa B kinase epsilon subunit,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,IMPDH2,P12268,Inosine-5'-monophosphate dehydrogenase 2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ITGA2B ITGB3,P08514 P05106,Integrin alpha-IIb/beta-3,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ITGA4,P13612,Integrin alpha-4,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ITGAL,P20701,Leukocyte adhesion glycoprotein LFA-1 alpha,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ITGAV ITGB3,P06756 P05106,Integrin alpha-V/beta-3,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,ITGB3,NA,NA,NA,P05106,Integrin alpha-IIb/beta-3,0.6847,0.9542,SuperPred only
+Atorvastatin,JMJD7-PLA2G4B,P0C869,Phospholipase A2 group 1VB,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,KAT6A,NA,NA,NA,Q92794,Histone acetyltransferase KAT6A,0.6125,0.975,SuperPred only
+Atorvastatin,KCNH2,NA,NA,NA,Q12809,HERG,0.6671,0.8976000000000001,SuperPred only
+Atorvastatin,KCNK9,NA,NA,NA,Q9NPC2,Potassium channel subfamily K member 9,0.7018,0.8,SuperPred only
+Atorvastatin,KDM6B,NA,NA,NA,O15054,Lysine-specific demethylase 6B,0.5102,0.8332999999999999,SuperPred only
+Atorvastatin,KIF11,NA,NA,NA,P52732,Kinesin-like protein 1,0.5236,0.9318,SuperPred only
+Atorvastatin,KIT,NA,NA,NA,P10721,Stem cell growth factor receptor,0.5769000000000001,0.8416999999999999,SuperPred only
+Atorvastatin,KLF5,NA,NA,NA,Q13887,Kruppel-like factor 5,0.8928,0.8633,SuperPred only
+Atorvastatin,KLK7,NA,NA,NA,P49862,Kallikrein 7,0.6041,0.94,SuperPred only
+Atorvastatin,LGALS3,NA,NA,NA,P17931,Galectin-3,0.8342,0.9690000000000001,SuperPred only
+Atorvastatin,LIPC,P11150,Hepatic lipase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,LIPG,Q9Y5X9,Endothelial lipase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,LNPEP,NA,NA,NA,Q9UIQ6,Cystinyl aminopeptidase,0.5770000000000001,0.9764,SuperPred only
+Atorvastatin,LPAR1,Q92633,Lysophosphatidic acid receptor Edg-2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,LPAR2,Q9HBW0,Lysophosphatidic acid receptor Edg-4,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,LPAR3,Q9UBY5,Lysophosphatidic acid receptor Edg-7,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,LTA4H,P09960,Leukotriene A4 hydrolase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,LTB4R,Q15722,Leukotriene B4 receptor 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MAPK10,P53779,c-Jun N-terminal kinase 3,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MAPK14,NA,NA,NA,Q16539,MAP kinase p38 alpha,0.539,0.9778,SuperPred only
+Atorvastatin,MAPK8,P45983,c-Jun N-terminal kinase 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MME,NA,NA,NA,P08473,Neprilysin,0.6101,0.9262999999999999,SuperPred only
+Atorvastatin,MMP1,P03956,Matrix metalloproteinase 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MMP12,P39900,Matrix metalloproteinase 12,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MMP13,P45452,Matrix metalloproteinase 13,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MMP2,P08253,Matrix metalloproteinase 2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MMP9,P14780,Matrix metalloproteinase 9,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,MTOR,P42345,Serine/threonine-protein kinase mTOR,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NFE2L2,NA,NA,NA,Q16236,Nuclear factor erythroid 2-related factor 2,0.8906999999999999,0.96,SuperPred only
+Atorvastatin,NFKB1,NA,NA,NA,P19838,Nuclear factor NF-kappa-B p105 subunit,0.9764999999999999,0.9609000000000001,SuperPred only
+Atorvastatin,NOS2,P35228,"Nitric oxide synthase, inducible   (by homology)",0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NOX1,NA,NA,NA,Q9Y5S8,NADPH oxidase 1,0.7209,0.9548000000000001,SuperPred only
+Atorvastatin,NPC1,NA,NA,NA,O15118,Niemann-Pick C1 protein,0.7864999999999999,0.8111,SuperPred only
+Atorvastatin,NR1H2,P55055,LXR-beta,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NR1H3,Q13133,LXR-alpha,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NR1H4,Q96RI1,Bile acid receptor FXR,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NR1I2,NA,NA,NA,O75469,Pregnane X receptor,0.765,0.9473,SuperPred only
+Atorvastatin,NR2E3,NA,NA,NA,Q9Y5X4,Photoreceptor-specific nuclear receptor,0.79369999999999985,0.85,SuperPred only
+Atorvastatin,NR3C1,P04150,Glucocorticoid receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NR3C2,P08235,Mineralocorticoid receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,NTRK1,NA,NA,NA,P04629,Nerve growth factor receptor Trk-A,0.9762,0.8715999999999999,SuperPred only
+Atorvastatin,NTRK3,NA,NA,NA,Q16288,NT-3 growth factor receptor,0.5757,0.9589,SuperPred only
+Atorvastatin,NTSR2,NA,NA,NA,O95665,Neurotensin receptor 2,0.5515,1,SuperPred only
+Atorvastatin,PDE4A,P27815,Phosphodiesterase 4A,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PDE4B,Q07343,Phosphodiesterase 4B,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PDE4D,Q08499,Phosphodiesterase 4D,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PDE5A,O76074,Phosphodiesterase 5A,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PDE6D,O43924,Phosphodiesterase 6D,0.172300966171,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PDGFRA,NA,NA,NA,P16234,Platelet-derived growth factor receptor alpha,0.6211,0.9107,SuperPred only
+Atorvastatin,PDGFRB,NA,NA,NA,P09619,Platelet-derived growth factor receptor,0.7086,0.7166999999999999,SuperPred only
+Atorvastatin,PIK3CB,P42338,PI3-kinase p110-beta subunit,0.0743922719035,P42338,PI3-kinase p110-beta subunit,0.5693,0.9875,SwissTargetPrediction + SuperPred
+Atorvastatin,PIK3CD,NA,NA,NA,O00329,PI3-kinase p110-delta subunit,0.8327,0.9647,SuperPred only
+Atorvastatin,PIK3R1,NA,NA,NA,P27986,PI3-kinase p110-alpha/p85-alpha,0.7963,0.9433,SuperPred only
+Atorvastatin,PLA2G2A,P14555,Phospholipase A2 group IIA,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PLA2G4A,P47712,Cytosolic phospholipase A2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PPARA,Q07869,Peroxisome proliferator-activated receptor alpha,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PPARD,Q03181,Peroxisome proliferator-activated receptor delta,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PRCP,NA,NA,NA,P42785,Lysosomal Pro-X carboxypeptidase,0.8431000000000001,1,SuperPred only
+Atorvastatin,PRKAA1,NA,NA,NA,Q13131,"AMP-activated protein kinase, alpha-1 subunit",0.7551000000000001,0.735,SuperPred only
+Atorvastatin,PRSS1,NA,NA,NA,P07477,Trypsin I,0.6053000000000001,0.9,SuperPred only
+Atorvastatin,PSMB1,NA,NA,NA,P20618,Proteasome component C5,0.6638,0.9,SuperPred only
+Atorvastatin,PSMB9,NA,NA,NA,P28065,Proteasome subunit beta type-9,0.8016,0.975,SuperPred only
+Atorvastatin,PTGDR2,NA,NA,NA,Q9Y5Y4,G protein-coupled receptor 44,0.6635,0.96,SuperPred only
+Atorvastatin,PTGER1,P34995,Prostanoid EP1 receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PTGER3,P43115,Prostanoid EP3 receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PTGER4,P35408,Prostanoid EP4 receptor   (by homology),0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PTGFR,P43088,Prostanoid FP receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PTGIR,P43119,Prostanoid IP receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PTGIS,Q16647,Prostaglandin I2 synthase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PTGS1,NA,NA,NA,P23219,Cyclooxygenase-1,0.9886,0.9016999999999998,SuperPred only
+Atorvastatin,PTPN1,P18031,Protein-tyrosine phosphatase 1B,0.0743922719035,P18031,Protein-tyrosine phosphatase 1B,0.898,0.9516999999999999,SwissTargetPrediction + SuperPred
+Atorvastatin,PTPN22,Q9Y2R2,Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,PYGL,P06737,Liver glycogen phosphorylase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,RAB9A,NA,NA,NA,P51151,Ras-related protein Rab-9A,0.9434999999999999,0.8766999999999999,SuperPred only
+Atorvastatin,RARA,P10276,Retinoic acid receptor alpha,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,RARB,P10826,Retinoic acid receptor beta,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,RARG,P13631,Retinoic acid receptor gamma,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,RORB,NA,NA,NA,Q92753,Nuclear receptor ROR-beta,0.6875,0.955,SuperPred only
+Atorvastatin,RXRA,P19793,Retinoid X receptor alpha   (by homology),0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,S1PR3,NA,NA,NA,Q99500,Sphingosine 1-phosphate receptor Edg-3,0.5026,0.9729000000000001,SuperPred only
+Atorvastatin,S1PR5,NA,NA,NA,Q9H228,Sphingosine 1-phosphate receptor Edg-8,0.6108,1,SuperPred only
+Atorvastatin,SCN3A,NA,NA,NA,Q9NY46,Sodium channel protein type III alpha subunit,0.6302,0.9690000000000001,SuperPred only
+Atorvastatin,SERPINE1,P05121,Plasminogen activator inhibitor-1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,SLC10A2,Q12908,Ileal bile acid transporter,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,SLC1A1,NA,NA,NA,P43005,Excitatory amino acid transporter 3,0.5268,0.935,SuperPred only
+Atorvastatin,SLC1A2,NA,NA,NA,P43004,Excitatory amino acid transporter 2,0.6548,0.9875,SuperPred only
+Atorvastatin,SLC1A3,NA,NA,NA,P43003,Excitatory amino acid transporter 1,0.5954999999999999,0.9466999999999999,SuperPred only
+Atorvastatin,SLC2A1,NA,NA,NA,P11166,Glucose transporter,0.7731,0.9875,SuperPred only
+Atorvastatin,SLC6A1,P30531,GABA transporter 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,SLC6A5,NA,NA,NA,Q9Y345,Glycine transporter 2,0.7703,0.9916999999999999,SuperPred only
+Atorvastatin,SLC6A9,NA,NA,NA,P48067,Glycine transporter 1,0.5859000000000001,0.9545,SuperPred only
+Atorvastatin,SOAT1,NA,NA,NA,P35610,Acyl coenzyme A:cholesterol acyltransferase 1,0.8124000000000001,0.9164999999999999,SuperPred only
+Atorvastatin,SPHK1,NA,NA,NA,Q9NYA1,Sphingosine kinase 1,0.5468,0.9603,SuperPred only
+Atorvastatin,SRD5A2,P31213,Steroid 5-alpha-reductase 2,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,SSTR1,P30872,Somatostatin receptor 1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,STAT1,NA,NA,NA,P42224,Signal transducer and activator of transcription 1-alpha/beta,0.6798000000000001,0.7262,SuperPred only
+Atorvastatin,STAT3,NA,NA,NA,P40763,Signal transducer and activator of transcription 3,0.6387999999999999,0.8269,SuperPred only
+Atorvastatin,STK3,NA,NA,NA,Q13188,Serine/threonine-protein kinase MST2,0.537,0.7166999999999999,SuperPred only
+Atorvastatin,TBK1,Q9UHD2,Serine/threonine-protein kinase TBK1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,THRA,P10827,Thyroid hormone receptor alpha,0.0743922719035,P10827,Thyroid hormone receptor alpha,0.8621000000000001,0.9914999999999999,SwissTargetPrediction + SuperPred
+Atorvastatin,THRB,P10828,Thyroid hormone receptor beta-1,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,TMPRSS6,NA,NA,NA,Q8IU80,Transmembrane protease serine 6,0.6575,0.9833,SuperPred only
+Atorvastatin,TNF,P01375,TNF-alpha,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,TOP1,NA,NA,NA,P11387,DNA topoisomerase I,0.5323,0.97,SuperPred only
+Atorvastatin,TOP2A,NA,NA,NA,P11388,DNA topoisomerase II alpha,0.7714,0.89,SuperPred only
+Atorvastatin,TRIM24,NA,NA,NA,O15164,Transcription intermediary factor 1-alpha,0.9117999999999999,0.9556,SuperPred only
+Atorvastatin,TYRO3,Q06418,Tyrosine-protein kinase receptor TYRO3,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,VCP,P55072,Transitional endoplasmic reticulum ATPase,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Atorvastatin,VDR,P11473,Vitamin D receptor,0.0743922719035,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ABCB1,P08183,ATP-dependent translocase ABCB1,0.04907176977853388,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ABCC1,NA,NA,NA,P33527,Multidrug resistance-associated protein 1,0.8325,0.9636999999999999,SuperPred only
+Pravastatin,ACHE,P22303,Acetylcholinesterase,0.15637641737949173,P22303,Acetylcholinesterase,0.6152000000000001,0.9445,SwissTargetPrediction + SuperPred
+Pravastatin,ADAM10,NA,NA,NA,O14672,ADAM10,0.7379000000000001,0.975,SuperPred only
+Pravastatin,ADORA1,NA,NA,NA,P30542,Adenosine A1 receptor,0.8270000000000001,0.9593,SuperPred only
+Pravastatin,ADORA3,P0DMS8,Adenosine receptor A3,0.08931870328562132,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ADRB1,NA,NA,NA,P08588,Beta-1 adrenergic receptor,0.5147999999999999,0.9556,SuperPred only
+Pravastatin,AHCY,NA,NA,NA,P23526,Adenosylhomocysteinase,0.5682,0.8666999999999999,SuperPred only
+Pravastatin,ALOX5,P09917,Polyunsaturated fatty acid 5-lipoxygenase,0.06663527861152137,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,AOC3,NA,NA,NA,Q16853,"Amine oxidase, copper containing",0.5171,0.94,SuperPred only
+Pravastatin,APEX1,NA,NA,NA,P27695,DNA-(apurinic or apyrimidinic site) lyase,0.9556,0.9111,SuperPred only
+Pravastatin,APH1A,NA,NA,NA,Q96BI3,Gamma-secretase,0.6724000000000001,0.9804999999999999,SuperPred only
+Pravastatin,AR,P10275,Androgen receptor,0.2316068310438173,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ATP2A1,O14983,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,0.05673417881873505,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ATP2A2,P16615,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,0.04055941180459129,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,AURKB,NA,NA,NA,Q96GD4,Aurora kinase B/Inner centromere protein,0.585,0.975,SuperPred only
+Pravastatin,BACE1,P56817,Beta-secretase 1,0.07629695234641898,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,BCL2L1,Q07817,Bcl-2-like protein 1,0.08610291606501547,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,BRD2,P25440,Bromodomain-containing protein 2,0.03765366640502787,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,BRD3,Q15059,Bromodomain-containing protein 3,0.1519726314899592,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,BRD4,O60885,Bromodomain-containing protein 4,0.2865109891093611,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,BRDT,Q58F21,Bromodomain testis-specific protein,0.03637561868411961,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CACNA1B,NA,NA,NA,Q00975,Voltage-gated N-type calcium channel alpha-1B subunit,0.6236999999999999,0.9714,SuperPred only
+Pravastatin,CAPN1,NA,NA,NA,P07384,Calpain 1,0.6194,0.9304000000000001,SuperPred only
+Pravastatin,CASP6,NA,NA,NA,P55212,Caspase-6,0.652,0.9756,SuperPred only
+Pravastatin,CASP8,NA,NA,NA,Q14790,Caspase-8,0.8143,0.9706,SuperPred only
+Pravastatin,CCR1,NA,NA,NA,P32246,C-C chemokine receptor type 1,0.8064999999999999,0.895,SuperPred only
+Pravastatin,CCR2,NA,NA,NA,P41597,C-C chemokine receptor type 2,0.6032,0.9856999999999999,SuperPred only
+Pravastatin,CD38,NA,NA,NA,P28907,Lymphocyte differentiation antigen CD38,0.526,0.9527,SuperPred only
+Pravastatin,CDC25C,NA,NA,NA,P30307,Dual specificity phosphatase Cdc25C,0.5879000000000001,0.9666999999999999,SuperPred only
+Pravastatin,CES1,P23141,Liver carboxylesterase 1,0.03347911026662403,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CETP,P11597,Cholesteryl ester transfer protein,0.05113225127192886,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CHRM1,NA,NA,NA,P11229,Muscarinic acetylcholine receptor M1,0.8590000000000001,0.9423,SuperPred only
+Pravastatin,CHRM2,P08172,Muscarinic acetylcholine receptor M2,0.03167649676659018,P08172,Muscarinic acetylcholine receptor M2,0.8278,0.9497,SwissTargetPrediction + SuperPred
+Pravastatin,CHRM3,NA,NA,NA,P20309,Muscarinic acetylcholine receptor M3,0.7665,0.9753000000000001,SuperPred only
+Pravastatin,CHRM4,NA,NA,NA,P08173,Muscarinic acetylcholine receptor M4,0.8772,0.9408,SuperPred only
+Pravastatin,CHRM5,NA,NA,NA,P08912,Muscarinic acetylcholine receptor M5,0.6866,0.9461999999999999,SuperPred only
+Pravastatin,CHRNA1,NA,NA,NA,P02708,Acetylcholine receptor; alpha1/beta1/delta/gamma,0.6706,0.9833,SuperPred only
+Pravastatin,CHRNA7,P36544,Neuronal acetylcholine receptor subunit alpha-7,0.04694973165827044,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CHRNB4,NA,NA,NA,P30926,Neuronal acetylcholine receptor; alpha4/beta4,0.7304999999999999,1,SuperPred only
+Pravastatin,CLK4,NA,NA,NA,Q9HAZ1,Dual specificity protein kinase CLK4,0.7731999999999999,0.9445,SuperPred only
+Pravastatin,CNR2,NA,NA,NA,P34972,Cannabinoid CB2 receptor,0.9281999999999999,0.9725,SuperPred only
+Pravastatin,CSNK2B,NA,NA,NA,P67870,Casein kinase II alpha/beta,0.6354,0.9923000000000001,SuperPred only
+Pravastatin,CTSD,NA,NA,NA,P07339,Cathepsin D,0.9806999999999999,0.9895,SuperPred only
+Pravastatin,CTSK,NA,NA,NA,P43235,Cathepsin K,0.5062000000000001,0.9684999999999999,SuperPred only
+Pravastatin,CXCR1,P25024,C-X-C chemokine receptor type 1,0.0470568203223593,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CYP17A1,P05093,"Steroid 17-alpha-hydroxylase/17,20 lyase",0.0715953830662618,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CYP19A1,P11511,Aromatase,0.20595108304762175,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,CYP3A4,NA,NA,NA,P08684,Cytochrome P450 3A4,0.8476,0.9118999999999999,SuperPred only
+Pravastatin,CYSLTR2,NA,NA,NA,Q9NS75,Cysteinyl leukotriene receptor 2,0.625,0.98,SuperPred only
+Pravastatin,DCUN1D1,NA,NA,NA,Q96GG9,DCN1-like protein 1,0.6566,0.95,SuperPred only
+Pravastatin,DNMT3A,Q9Y6K1,DNA (cytosine-5)-methyltransferase 3A,0.03726966946175648,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,DPP8,NA,NA,NA,Q6V1X1,Dipeptidyl peptidase VIII,0.6429,0.9721000000000001,SuperPred only
+Pravastatin,DPP9,NA,NA,NA,Q86TI2,Dipeptidyl peptidase IX,0.6879000000000001,0.9695,SuperPred only
+Pravastatin,DRD2,P14416,D(2) dopamine receptor,0.20569400798646265,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,EDNRA,P25101,Endothelin-1 receptor,0.10878610741008549,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ELANE,P08246,Neutrophil elastase,0.14826909907724484,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ERAP1,NA,NA,NA,Q9NZ08,Endoplasmic reticulum aminopeptidase 1,0.5959,1,SuperPred only
+Pravastatin,F10,P00742,Coagulation factor X,0.03603883829490838,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,F2,P00734,Prothrombin,0.0671388370755779,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,FAAH,O00519,Fatty-acid amide hydrolase 1,0.163805711455523,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,FPR1,NA,NA,NA,P21462,Formyl peptide receptor 1,0.8622,0.9356,SuperPred only
+Pravastatin,FPR2,NA,NA,NA,P25090,Lipoxin A4 receptor,0.7866,1,SuperPred only
+Pravastatin,FPR3,NA,NA,NA,Q6L5J4,FML2_HUMAN,0.5752,1,SuperPred only
+Pravastatin,GLRA1,NA,NA,NA,P23415,Glycine receptor subunit alpha-1,0.7929999999999999,0.9071000000000001,SuperPred only
+Pravastatin,GPR55,NA,NA,NA,Q9Y2T6,G-protein coupled receptor 55,0.7021000000000001,0.7814999999999999,SuperPred only
+Pravastatin,GRIA2,NA,NA,NA,P42262,"Glutamate receptor ionotropic, AMPA 2",0.669,0.8692,SuperPred only
+Pravastatin,GRIN1,NA,NA,NA,Q05586,Glutamate NMDA receptor; GRIN1/GRIN2B,0.8344000000000001,0.9589,SuperPred only
+Pravastatin,GSK3B,P49841,Glycogen synthase kinase-3 beta,0.1317343581522368,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HDAC1,Q13547,Histone deacetylase 1,0.2332041551935294,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HDAC2,Q92769,Histone deacetylase 2,0.2798367764508391,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HDAC6,Q9UBN7,Histone deacetylase 6,0.2798367764508391,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HMGCR,P04035,3-hydroxy-3-methylglutaryl-coenzyme A reductase,1,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HRH3,NA,NA,NA,Q9Y5N1,Histamine H3 receptor,0.5939,0.9143000000000001,SuperPred only
+Pravastatin,HSD11B1,P28845,11-beta-hydroxysteroid dehydrogenase 1,0.08267136954825577,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HSD11B2,P80365,11-beta-hydroxysteroid dehydrogenase type 2,0.05097487910944707,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HSD17B10,NA,NA,NA,Q99714,Endoplasmic reticulum-associated amyloid beta-peptide-binding protein,0.9236999999999999,0.7016,SuperPred only
+Pravastatin,HSP90AA1,P07900,Heat shock protein HSP 90-alpha,0.16607058142965028,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HTR1A,P08908,5-hydroxytryptamine receptor 1A,0.17793912539883083,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,HTR2A,NA,NA,NA,P28223,Serotonin 2a (5-HT2a) receptor,0.5378000000000001,0.9143000000000001,SuperPred only
+Pravastatin,HTR2C,NA,NA,NA,P28335,Serotonin 2c (5-HT2c) receptor,0.6038,0.8961999999999999,SuperPred only
+Pravastatin,HTR7,NA,NA,NA,P34969,Serotonin 7 (5-HT7) receptor,0.5064,0.9071000000000001,SuperPred only
+Pravastatin,IKBKB,O14920,Inhibitor of nuclear factor kappa-B kinase subunit beta,0.05069328254975781,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,IL1B,P01584,Interleukin-1 beta,0.1703710755052388,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,ITGB3,NA,NA,NA,P05106,Integrin alpha-V/beta-3,0.638,0.9571000000000001,SuperPred only
+Pravastatin,ITK,NA,NA,NA,Q08881,Tyrosine-protein kinase ITK/TSK,0.5682,0.95,SuperPred only
+Pravastatin,JUN,P05412,Transcription factor Jun,0.1069828783055203,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,KDM1A,NA,NA,NA,O60341,LSD1/CoREST complex,0.8797,0.9709,SuperPred only
+Pravastatin,KDR,P35968,Vascular endothelial growth factor receptor 2,0.2004753718357288,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,KEAP1,Q14145,Kelch-like ECH-associated protein 1,0.37546481867526466,Q14145,Kelch-like ECH-associated protein 1,0.5014,0.8238,SwissTargetPrediction + SuperPred
+Pravastatin,KLF5,NA,NA,NA,Q13887,Kruppel-like factor 5,0.8029999999999999,0.8633,SuperPred only
+Pravastatin,LANCL2,Q9NS86,LanC-like protein 2,0.06820189123657883,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,LTB4R,Q15722,Leukotriene B4 receptor 1,0.0389134075603784,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,METAP2,P50579,Methionine aminopeptidase 2,0.03670977812880757,P50579,Methionine aminopeptidase 2,0.5122000000000001,0.9728,SwissTargetPrediction + SuperPred
+Pravastatin,MMP8,NA,NA,NA,P22894,Matrix metalloproteinase 8,0.5265,0.9466,SuperPred only
+Pravastatin,MTOR,NA,NA,NA,P42345,Serine/threonine-protein kinase mTOR,0.6445000000000001,0.9278,SuperPred only
+Pravastatin,N/A,P20701&P05107,Integrin alpha-L/beta-2 (LFA-1),0.8659416208079702,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,NFE2L2,NA,NA,NA,Q16236,Nuclear factor erythroid 2-related factor 2,0.8008,0.96,SuperPred only
+Pravastatin,NFKB1,P19838,Nuclear factor NF-kappa-B p105 subunit,0.03162725664218705,P19838,Nuclear factor NF-kappa-B p105 subunit,0.9897,0.9609000000000001,SwissTargetPrediction + SuperPred
+Pravastatin,NLRP3,Q96P20,"NACHT, LRR and PYD domains-containing protein 3",0.33603913677486064,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,NOX1,NA,NA,NA,Q9Y5S8,NADPH oxidase 1,0.6325,0.9548000000000001,SuperPred only
+Pravastatin,NR1H4,Q96RI1,Bile acid receptor,0.29550023665615105,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,NR1I2,NA,NA,NA,O75469,Pregnane X receptor,0.5807,0.9473,SuperPred only
+Pravastatin,NR3C1,P04150,Glucocorticoid receptor,0.22500914281262333,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,NR3C2,P08235,Mineralocorticoid receptor,0.2097625786856213,P08235,Mineralocorticoid receptor,0.6791000000000001,1,SwissTargetPrediction + SuperPred
+Pravastatin,NR4A2,P43354,Nuclear receptor subfamily 4 group A member 2,0.9463224072000282,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,NTRK3,NA,NA,NA,Q16288,NT-3 growth factor receptor,0.6923,0.9589,SuperPred only
+Pravastatin,NTSR2,NA,NA,NA,O95665,Neurotensin receptor 2,0.7290000000000001,1,SuperPred only
+Pravastatin,OPRK1,P41145,Kappa-type opioid receptor,0.02954428147869259,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,P2RX3,P56373,P2X purinoceptor 3,0.1243962658267426,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,P2RY12,NA,NA,NA,Q9H244,Purinergic receptor P2Y12,0.7164,0.96,SuperPred only
+Pravastatin,PDE4D,Q08499,"3',5'-cyclic-AMP phosphodiesterase 4D",0.4196483507827635,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PDGFRA,NA,NA,NA,P16234,Platelet-derived growth factor receptor alpha,0.5365,0.9107,SuperPred only
+Pravastatin,PGR,P06401,Progesterone receptor,0.0468909302541246,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PHGDH,O43175,D-3-phosphoglycerate dehydrogenase,0.28569932116414953,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PIK3CB,NA,NA,NA,P42338,PI3-kinase p110-beta subunit,0.7432,0.9875,SuperPred only
+Pravastatin,PIK3CD,NA,NA,NA,O00329,PI3-kinase p110-delta subunit,0.8815,0.9647,SuperPred only
+Pravastatin,PIK3R1,NA,NA,NA,P27986,PI3-kinase p110-alpha/p85-alpha,0.7077,0.9433,SuperPred only
+Pravastatin,PKM,P14618,Pyruvate kinase PKM,0.2729277678131552,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PLA2G2A,P14555,"Phospholipase A2, membrane associated",0.16237453309867345,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PNLIP,P16233,Pancreatic triacylglycerol lipase,0.06362614357791058,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PPARG,P37231,Peroxisome proliferator-activated receptor gamma,0.05122535020553682,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PPP1CC,P36873,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit,0.05178354913385521,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PPP2CA,P67775,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,0.14431925186725417,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PPP5C,P53041,Serine/threonine-protein phosphatase 5,0.05297003096155085,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PRCP,NA,NA,NA,P42785,Lysosomal Pro-X carboxypeptidase,0.5157,1,SuperPred only
+Pravastatin,PRKCA,P17252,Protein kinase C alpha type,0.11914877685792014,P17252,Protein kinase C alpha,0.6008,0.9803000000000001,SwissTargetPrediction + SuperPred
+Pravastatin,PRKCB,P05771,Protein kinase C beta type,0.04451241437936486,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PRKCD,Q05655,Protein kinase C delta type,0.07136280691993406,Q05655,Protein kinase C delta,0.7009000000000001,0.9779000000000001,SwissTargetPrediction + SuperPred
+Pravastatin,PRKCE,Q02156,Protein kinase C epsilon type,0.06601294198964038,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PRKCG,P05129,Protein kinase C gamma type,0.05292646679015629,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PRKCH,P24723,Protein kinase C eta type,0.04451241437936486,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PRKCQ,Q04759,Protein kinase C theta type,0.04988207381255204,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PRSS1,P07477,Serine protease 1,0.03286603546990294,P07477,Trypsin I,0.61240000000000006,0.9,SwissTargetPrediction + SuperPred
+Pravastatin,PSMB1,NA,NA,NA,P20618,Proteasome component C5,0.7443000000000001,0.9,SuperPred only
+Pravastatin,PSMB5,P28074,Proteasome Macropain subunit MB1,0.08864391033236928,P28074,Proteasome Macropain subunit MB1,0.506,0.9384999999999999,SwissTargetPrediction + SuperPred
+Pravastatin,PSMB9,NA,NA,NA,P28065,Proteasome subunit beta type-9,0.5907,0.975,SuperPred only
+Pravastatin,PTGDR,Q13258,Prostaglandin D2 receptor,0.03073352815365889,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PTGER1,NA,NA,NA,P34995,Prostanoid EP1 receptor,0.5768,0.9571000000000001,SuperPred only
+Pravastatin,PTGER2,NA,NA,NA,P43116,Prostanoid EP2 receptor,0.5643,0.93,SuperPred only
+Pravastatin,PTGER3,P43115,Prostaglandin E2 receptor EP3 subtype,0.05599694848543064,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PTGER4,P35408,Prostaglandin E2 receptor EP4 subtype,0.06589570610609756,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PTGES,O14684,Prostaglandin E synthase,0.0433991409216205,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PTGS1,NA,NA,NA,P23219,Cyclooxygenase-1,0.973,0.9016999999999998,SuperPred only
+Pravastatin,PTGS2,P35354,Prostaglandin G/H synthase 2,0.15319966831609472,P35354,Cyclooxygenase-2,0.5788,0.8963,SwissTargetPrediction + SuperPred
+Pravastatin,PTPN1,P18031,Tyrosine-protein phosphatase non-receptor type 1,0.241192779581556,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PTPN11,Q06124,Tyrosine-protein phosphatase non-receptor type 11,0.4121788724341206,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,PTPN2,NA,NA,NA,P17706,T-cell protein-tyrosine phosphatase,0.6587999999999999,0.93,SuperPred only
+Pravastatin,RASGRP3,Q8IV61,Ras guanyl-releasing protein 3,0.03115909412098562,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,RORB,NA,NA,NA,Q92753,Nuclear receptor ROR-beta,0.7082999999999999,0.955,SuperPred only
+Pravastatin,RXFP1,NA,NA,NA,Q9HBX9,Relaxin receptor 1,0.6549,0.825,SuperPred only
+Pravastatin,S1PR3,NA,NA,NA,Q99500,Sphingosine 1-phosphate receptor Edg-3,0.5233,0.9729000000000001,SuperPred only
+Pravastatin,S1PR5,NA,NA,NA,Q9H228,Sphingosine 1-phosphate receptor Edg-8,0.7773,1,SuperPred only
+Pravastatin,SAE1,NA,NA,NA,Q9UBE0,SUMO-activating enzyme,0.5059,0.79,SuperPred only
+Pravastatin,SCN2A,NA,NA,NA,Q99250,Sodium channel protein type II alpha subunit,0.6673,0.955,SuperPred only
+Pravastatin,SCN3A,NA,NA,NA,Q9NY46,Sodium channel protein type III alpha subunit,0.7569,0.9690000000000001,SuperPred only
+Pravastatin,SCN4A,NA,NA,NA,P35499,Sodium channel protein type IV alpha subunit,0.5471,0.9231999999999999,SuperPred only
+Pravastatin,SF3B3,Q15393,Splicing factor 3B subunit 3,0.14643616252589425,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,SLC2A1,NA,NA,NA,P11166,Glucose transporter,0.5753,0.9875,SuperPred only
+Pravastatin,SLC40A1,NA,NA,NA,Q9NP59,Solute carrier family 40 member 1,0.7706999999999999,0.95,SuperPred only
+Pravastatin,SLC6A2,P23975,Sodium-dependent noradrenaline transporter,0.952080036270896,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,SLC6A3,Q01959,Sodium-dependent dopamine transporter,0.9620994365917396,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,SLC6A5,NA,NA,NA,Q9Y345,Glycine transporter 2,0.8443,0.9916999999999999,SuperPred only
+Pravastatin,SLC9A1,NA,NA,NA,P19634,Sodium/hydrogen exchanger 1,0.6344,0.9024000000000001,SuperPred only
+Pravastatin,SRD5A2,P31213,3-oxo-5-alpha-steroid 4-dehydrogenase 2,0.03790914898421822,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,STAT3,P40763,Signal transducer and activator of transcription 3,0.0765110018797864,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,TACR2,P21452,Substance-K receptor,0.9261451548330556,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,TBXA2R,P21731,Thromboxane A2 receptor,0.20298960812759295,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,TDP1,NA,NA,NA,Q9NUW8,Tyrosyl-DNA phosphodiesterase 1,0.7656999999999999,0.7121999999999999,SuperPred only
+Pravastatin,TERT,O14746,Telomerase reverse transcriptase,0.2909248066577469,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,TFPI,NA,NA,NA,P10646,Tissue factor pathway inhibitor,0.5798,0.9732999999999999,SuperPred only
+Pravastatin,THRA,NA,NA,NA,P10827,Thyroid hormone receptor alpha,0.6057,0.9914999999999999,SuperPred only
+Pravastatin,TLR4,O00206,Toll-like receptor 4,0.18323675298522457,O00206,Toll-like receptor 4,0.6148,0.925,SwissTargetPrediction + SuperPred
+Pravastatin,TLR9,Q9NR96,Toll-like receptor 9,0.14529840695924195,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,TMPRSS6,NA,NA,NA,Q8IU80,Transmembrane protease serine 6,0.7055,0.9833,SuperPred only
+Pravastatin,TNF,P01375,Tumor necrosis factor,0.03324263296515489,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,TOP2A,NA,NA,NA,P11388,DNA topoisomerase II alpha,0.6946000000000001,0.89,SuperPred only
+Pravastatin,TRIM24,NA,NA,NA,O15164,Transcription intermediary factor 1-alpha,0.8014,0.9556,SuperPred only
+Pravastatin,TTL,Q8NG68,Tubulin--tyrosine ligase,0.05063758481463754,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,USP7,Q93009,Ubiquitin carboxyl-terminal hydrolase 7,0.05910274681646017,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,VDR,P11473,Vitamin D3 receptor,0.504835879784961,NA,NA,NA,NA,SwissTargetPrediction only
+Pravastatin,XPO1,O14980,Exportin-1,0.0290819212957712,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ABCC1,NA,NA,NA,P33527,Multidrug resistance-associated protein 1,0.6492,0.9636999999999999,SuperPred only
+Rosuvastatin,ACACB,NA,NA,NA,O00763,Acetyl-CoA carboxylase 2,0.5636,0.98,SuperPred only
+Rosuvastatin,ACE,P12821,Angiotensin-converting enzyme   (by homology),0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ADAM10,NA,NA,NA,O14672,ADAM10,0.7648,0.975,SuperPred only
+Rosuvastatin,ADAM17,P78536,ADAM17,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ADORA2B,NA,NA,NA,P29275,Adenosine A2b receptor,0.5974,0.9859,SuperPred only
+Rosuvastatin,AKR1B1,P15121,Aldose reductase   (by homology),0.100634432184,P15121,Aldose reductase,0.718,0.9238,SwissTargetPrediction + SuperPred
+Rosuvastatin,AMPD3,Q01432,AMP deaminase 3,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ANPEP,NA,NA,NA,P15144,Aminopeptidase N,0.7375,0.9331,SuperPred only
+Rosuvastatin,APEX1,NA,NA,NA,P27695,DNA-(apurinic or apyrimidinic site) lyase,0.5951,0.9111,SuperPred only
+Rosuvastatin,APH1A,NA,NA,NA,Q96BI3,Gamma-secretase,0.552,0.9804999999999999,SuperPred only
+Rosuvastatin,AURKA,O14965,Serine/threonine-protein kinase Aurora-A,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,AURKB,NA,NA,NA,Q96GD4,Aurora kinase B/Inner centromere protein,0.5855,0.975,SuperPred only
+Rosuvastatin,BTK,Q06187,Tyrosine-protein kinase BTK,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CAPN1,NA,NA,NA,P07384,Calpain 1,0.5816,0.9304000000000001,SuperPred only
+Rosuvastatin,CASP1,P29466,Caspase-1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CASP2,P42575,Caspase-2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CASP3,P42574,Caspase-3,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CASP6,P55212,Caspase-6,0.100634432184,P55212,Caspase-6,0.6517999999999999,0.9756,SwissTargetPrediction + SuperPred
+Rosuvastatin,CASP7,P55210,Caspase-7,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CASP8,Q14790,Caspase-8,0.100634432184,Q14790,Caspase-8,0.6228,0.9706,SwissTargetPrediction + SuperPred
+Rosuvastatin,CCKBR,P32239,Cholecystokinin B receptor   (by homology),0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CCNB3 CDK1 CCNB1 CCNB2,Q8WWL7 P06493 P14635 O95067,Cyclin-dependent kinase 1/cyclin B,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CCNE2 CDK2 CCNE1,O96020 P24941 P24864,Cyclin-dependent kinase 2/cyclin E,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CCR1,NA,NA,NA,P32246,C-C chemokine receptor type 1,0.6423000000000001,0.895,SuperPred only
+Rosuvastatin,CCR2,NA,NA,NA,P41597,C-C chemokine receptor type 2,0.6303,0.9856999999999999,SuperPred only
+Rosuvastatin,CDC25C,NA,NA,NA,P30307,Dual specificity phosphatase Cdc25C,0.7686,0.9666999999999999,SuperPred only
+Rosuvastatin,CDK1,P06493,Cyclin-dependent kinase 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CDK2,P24941,Cyclin-dependent kinase 2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CDK2 CCNA1 CCNA2,P24941 P78396 P20248,Cyclin-dependent kinase 2/cyclin A,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CDK5,Q00535,Cyclin-dependent kinase 5/CDK5 activator 1,0.100634432184,Q00535,Cyclin-dependent kinase 5/CDK5 activator 1,0.6401,0.9303,SwissTargetPrediction + SuperPred
+Rosuvastatin,CHKA,NA,NA,NA,P35790,Choline kinase alpha,0.7549000000000001,0.78,SuperPred only
+Rosuvastatin,CHRNB4,NA,NA,NA,P30926,Neuronal acetylcholine receptor; alpha4/beta4,0.6726000000000001,1,SuperPred only
+Rosuvastatin,CMA1,P23946,Chymase,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CPA1,P15085,Carboxypeptidase A1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CPT1B,NA,NA,NA,Q92523,"Carnitine O-palmitoyltransferase 1, muscle isoform",0.8124000000000001,0.8833,SuperPred only
+Rosuvastatin,CSNK1E,NA,NA,NA,P49674,Casein kinase I epsilon,0.5587,0.9271,SuperPred only
+Rosuvastatin,CSNK2A1,P68400,Casein kinase II alpha,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CSNK2B,NA,NA,NA,P67870,Casein kinase II alpha/beta,0.8606,0.9923000000000001,SuperPred only
+Rosuvastatin,CTSA,P10619,Lysosomal protective protein,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CTSD,NA,NA,NA,P07339,Cathepsin D,0.9917999999999999,0.9895,SuperPred only
+Rosuvastatin,CXCR4,NA,NA,NA,P61073,C-X-C chemokine receptor type 4,0.7381,0.9309999999999999,SuperPred only
+Rosuvastatin,CYP26A1,O43174,Cytochrome P450 26A1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,CYP2A6,NA,NA,NA,P11509,Cytochrome P450 2A6,0.6112000000000001,0.7178,SuperPred only
+Rosuvastatin,CYP2C9,P11712,Cytochrome P450 2C9,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,DCUN1D1,NA,NA,NA,Q96GG9,DCN1-like protein 1,0.6142,0.95,SuperPred only
+Rosuvastatin,DGAT1,O75907,Diacylglycerol O-acyltransferase 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,DHODH,NA,NA,NA,Q02127,Dihydroorotate dehydrogenase,0.8797,0.9609000000000001,SuperPred only
+Rosuvastatin,DOT1L,NA,NA,NA,Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",0.5768,0.9356,SuperPred only
+Rosuvastatin,DPP4,P27487,Dipeptidyl peptidase IV,0.100634432184,P27487,Dipeptidyl peptidase IV,0.5434,0.9569,SwissTargetPrediction + SuperPred
+Rosuvastatin,DPP7,NA,NA,NA,Q9UHL4,Dipeptidyl peptidase II,0.6804000000000001,0.9229,SuperPred only
+Rosuvastatin,DUSP3,NA,NA,NA,P51452,Dual specificity protein phosphatase 3,0.7016,0.94,SuperPred only
+Rosuvastatin,ECE1,P42892,Endothelin-converting enzyme 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,EDNRA,P25101,Endothelin receptor ET-A,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,EDNRB,P24530,Endothelin receptor ET-B,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,EGFR,P00533,Epidermal growth factor receptor erbB1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,EGLN1,Q9GZT9,Egl nine homolog 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ERAP1,NA,NA,NA,Q9NZ08,Endoplasmic reticulum aminopeptidase 1,0.5532,1,SuperPred only
+Rosuvastatin,FAAH,NA,NA,NA,O00519,Anandamide amidohydrolase,0.6347,0.9753000000000001,SuperPred only
+Rosuvastatin,FASN,NA,NA,NA,P49327,Fatty acid synthase,0.5115,0.825,SuperPred only
+Rosuvastatin,FNTA FNTB,P49354 P49356,Protein farnesyltransferase,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,FOLH1,Q04609,Glutamate carboxypeptidase II,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,FPR1,NA,NA,NA,P21462,Formyl peptide receptor 1,0.8376,0.9356,SuperPred only
+Rosuvastatin,FPR2,NA,NA,NA,P25090,Lipoxin A4 receptor,0.7645000000000001,1,SuperPred only
+Rosuvastatin,GALK1,P51570,Galactokinase,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,GBA2,NA,NA,NA,Q9HCG7,Beta-glucosidase,0.5277000000000001,0.99,SuperPred only
+Rosuvastatin,GLRA1,NA,NA,NA,P23415,Glycine receptor subunit alpha-1,0.8684000000000001,0.9071000000000001,SuperPred only
+Rosuvastatin,GPR55,NA,NA,NA,Q9Y2T6,G-protein coupled receptor 55,0.752,0.7814999999999999,SuperPred only
+Rosuvastatin,GRIA2,NA,NA,NA,P42262,"Glutamate receptor ionotropic, AMPA 2",0.8452,0.8692,SuperPred only
+Rosuvastatin,GRIN1,NA,NA,NA,Q05586,Glutamate NMDA receptor; GRIN1/GRIN2B,0.7713,0.9589,SuperPred only
+Rosuvastatin,GSK3A,P49840,Glycogen synthase kinase-3 alpha,0.100634432184,P49840,Glycogen synthase kinase-3 alpha,0.5202,0.8884000000000001,SwissTargetPrediction + SuperPred
+Rosuvastatin,GSK3B,P49841,Glycogen synthase kinase-3 beta,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,GUSB,NA,NA,NA,P08236,Beta-glucuronidase,0.6898000000000001,0.7767999999999999,SuperPred only
+Rosuvastatin,HDAC1,Q13547,Histone deacetylase 1,0.150917041681,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,HDAC10,NA,NA,NA,Q969S8,Histone deacetylase 10,0.6025,0.9007999999999999,SuperPred only
+Rosuvastatin,HDAC2,Q92769,Histone deacetylase 2,0.150917041681,Q92769,Histone deacetylase 2,0.6287999999999999,0.9475,SwissTargetPrediction + SuperPred
+Rosuvastatin,HDAC6,Q9UBN7,Histone deacetylase 6,0.150917041681,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,HIF1A,NA,NA,NA,Q16665,Hypoxia-inducible factor 1 alpha,0.8057,0.8514,SuperPred only
+Rosuvastatin,HMGCR,P04035,HMG-CoA reductase,0.998137004957,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,HSD17B2,P37059,Estradiol 17-beta-dehydrogenase 2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,HSP90AB1,P08238,Heat shock protein HSP 90-beta,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,HTR2A,NA,NA,NA,P28223,Serotonin 2a (5-HT2a) receptor,0.8004000000000001,0.9143000000000001,SuperPred only
+Rosuvastatin,HTR2C,NA,NA,NA,P28335,Serotonin 2c (5-HT2c) receptor,0.5097999999999999,0.8961999999999999,SuperPred only
+Rosuvastatin,IDO1,NA,NA,NA,P14902,"Indoleamine 2,3-dioxygenase",0.7736999999999999,0.9638,SuperPred only
+Rosuvastatin,IKBKB,O14920,Inhibitor of nuclear factor kappa B kinase beta subunit,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,IMPDH1,P20839,Inosine-5'-monophosphate dehydrogenase 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,IMPDH2,P12268,Inosine-5'-monophosphate dehydrogenase 2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,INSR,P06213,Insulin receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITGA2B ITGB3,P08514 P05106,Integrin alpha-IIb/beta-3,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITGAV ITGB3,P06756 P05106,Integrin alpha-V/beta-3,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITGAV ITGB6,P06756 P18564,Integrin alpha-V/beta-6,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITGB1,NA,NA,NA,P05556,Integrin alpha-4/beta-1,0.5145,0.9286,SuperPred only
+Rosuvastatin,ITGB1 ITGA4,P05556 P13612,Integrin alpha-4/beta-1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITGB3,NA,NA,NA,P05106,Integrin alpha-V/beta-3,0.7040000000000001,0.9571000000000001,SuperPred only
+Rosuvastatin,ITGB5 ITGAV,P18084 P06756,Integrin alpha-V/beta-5,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITGB7 ITGA4,P26010 P13612,Integrin alpha-4/beta-7,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ITK,Q08881,Tyrosine-protein kinase ITK/TSK,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,KCNK9,NA,NA,NA,Q9NPC2,Potassium channel subfamily K member 9,0.5234,0.8,SuperPred only
+Rosuvastatin,KDM6B,NA,NA,NA,O15054,Lysine-specific demethylase 6B,0.5425,0.8332999999999999,SuperPred only
+Rosuvastatin,KIF11,NA,NA,NA,P52732,Kinesin-like protein 1,0.5577000000000001,0.9318,SuperPred only
+Rosuvastatin,KLF5,NA,NA,NA,Q13887,Kruppel-like factor 5,0.8926999999999999,0.8633,SuperPred only
+Rosuvastatin,KLK5,NA,NA,NA,Q9Y337,Kallikrein 5,0.5753,0.875,SuperPred only
+Rosuvastatin,KLK7,NA,NA,NA,P49862,Kallikrein 7,0.5083,0.94,SuperPred only
+Rosuvastatin,LGALS3,NA,NA,NA,P17931,Galectin-3,0.6748000000000001,0.9690000000000001,SuperPred only
+Rosuvastatin,LTB4R,Q15722,Leukotriene B4 receptor 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MAPK10,P53779,c-Jun N-terminal kinase 3,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MAPK11,NA,NA,NA,Q15759,MAP kinase p38 beta,0.8039000000000001,0.9475,SuperPred only
+Rosuvastatin,MAPK14,Q16539,MAP kinase p38 alpha,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MAPK3,P27361,MAP kinase ERK1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MME,P08473,Neprilysin,0.100634432184,P08473,Neprilysin,0.6041,0.9262999999999999,SwissTargetPrediction + SuperPred
+Rosuvastatin,MMEL1,Q495T6,Membrane metallo-endopeptidase-like 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MMP1,P03956,Matrix metalloproteinase 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MMP13,P45452,Matrix metalloproteinase 13,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MMP16,P51512,Matrix metalloproteinase 16,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MMP2,P08253,Matrix metalloproteinase 2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MMP8,P22894,Matrix metalloproteinase 8,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MMP9,P14780,Matrix metalloproteinase 9,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,MTOR,NA,NA,NA,P42345,Serine/threonine-protein kinase mTOR,0.6098,0.9278,SuperPred only
+Rosuvastatin,NAMPT,NA,NA,NA,P43490,Nicotinamide phosphoribosyltransferase,0.544,0.9625,SuperPred only
+Rosuvastatin,NFE2L2,NA,NA,NA,Q16236,Nuclear factor erythroid 2-related factor 2,0.9689,0.96,SuperPred only
+Rosuvastatin,NFKB1,NA,NA,NA,P19838,Nuclear factor NF-kappa-B p105 subunit,0.9766999999999999,0.9609000000000001,SuperPred only
+Rosuvastatin,NLK,NA,NA,NA,Q9UBE8,Serine/threonine protein kinase NLK,0.511,0.79,SuperPred only
+Rosuvastatin,NOX1,NA,NA,NA,Q9Y5S8,NADPH oxidase 1,0.7709,0.9548000000000001,SuperPred only
+Rosuvastatin,NR1H2,NA,NA,NA,P55055,LXR-beta,0.5757,0.95,SuperPred only
+Rosuvastatin,NR1I2,NA,NA,NA,O75469,Pregnane X receptor,0.8139,0.9473,SuperPred only
+Rosuvastatin,NR3C1,P04150,Glucocorticoid receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,NR3C2,NA,NA,NA,P08235,Mineralocorticoid receptor,0.6394,1,SuperPred only
+Rosuvastatin,NTRK1,P04629,Nerve growth factor receptor Trk-A,0.100634432184,P04629,Nerve growth factor receptor Trk-A,0.71,0.8715999999999999,SwissTargetPrediction + SuperPred
+Rosuvastatin,NTRK2,Q16620,Neurotrophic tyrosine kinase receptor type 2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,NTSR2,NA,NA,NA,O95665,Neurotensin receptor 2,0.5912000000000001,1,SuperPred only
+Rosuvastatin,OPRD1,P41143,Delta opioid receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,OPRM1,P35372,Mu opioid receptor   (by homology),0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,P2RY12,Q9H244,Purinergic receptor P2Y12,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PARP1,P09874,Poly [ADP-ribose] polymerase-1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PDE11A,NA,NA,NA,Q9HCR9,Phosphodiesterase 11A,0.5746,0.85,SuperPred only
+Rosuvastatin,PDE3B,NA,NA,NA,Q13370,Phosphodiesterase 3B,0.6756,0.94,SuperPred only
+Rosuvastatin,PDE5A,O76074,Phosphodiesterase 5A,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PDE6D,O43924,Phosphodiesterase 6D,0.998137004957,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PDGFRB,NA,NA,NA,P09619,Platelet-derived growth factor receptor,0.6516,0.7166999999999999,SuperPred only
+Rosuvastatin,PGR,P06401,Progesterone receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PIK3CB,NA,NA,NA,P42338,PI3-kinase p110-beta subunit,0.7482,0.9875,SuperPred only
+Rosuvastatin,PIK3CD,NA,NA,NA,O00329,PI3-kinase p110-delta subunit,0.5112000000000001,0.9647,SuperPred only
+Rosuvastatin,PIK3R1,NA,NA,NA,P27986,PI3-kinase p110-alpha/p85-alpha,0.7128,0.9433,SuperPred only
+Rosuvastatin,PLAT,NA,NA,NA,P00750,Tissue-type plasminogen activator,0.5981,0.9333,SuperPred only
+Rosuvastatin,PPARD,Q03181,Peroxisome proliferator-activated receptor delta,0.100634432184,Q03181,Peroxisome proliferator-activated receptor delta,0.6649,0.9395,SwissTargetPrediction + SuperPred
+Rosuvastatin,PPARG,P37231,Peroxisome proliferator-activated receptor gamma,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PRCP,NA,NA,NA,P42785,Lysosomal Pro-X carboxypeptidase,0.9,1,SuperPred only
+Rosuvastatin,PRKAA1,NA,NA,NA,Q13131,"AMP-activated protein kinase, alpha-1 subunit",0.6442,0.735,SuperPred only
+Rosuvastatin,PRSS1,NA,NA,NA,P07477,Trypsin I,0.5928,0.9,SuperPred only
+Rosuvastatin,PSMB9,NA,NA,NA,P28065,Proteasome subunit beta type-9,0.5702,0.975,SuperPred only
+Rosuvastatin,PTGDR,Q13258,Prostanoid DP receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PTGDR2,NA,NA,NA,Q9Y5Y4,G protein-coupled receptor 44,0.5590999999999999,0.96,SuperPred only
+Rosuvastatin,PTGER1,P34995,Prostanoid EP1 receptor   (by homology),0.100634432184,P34995,Prostanoid EP1 receptor,0.6694000000000001,0.9571000000000001,SwissTargetPrediction + SuperPred
+Rosuvastatin,PTGER2,P43116,Prostanoid EP2 receptor   (by homology),0.100634432184,P43116,Prostanoid EP2 receptor,0.5976,0.93,SwissTargetPrediction + SuperPred
+Rosuvastatin,PTGER3,P43115,Prostanoid EP3 receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PTGER4,P35408,Prostanoid EP4 receptor   (by homology),0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PTGFR,P43088,Prostanoid FP receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PTGIR,P43119,Prostanoid IP receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PTGIS,Q16647,Prostaglandin I2 synthase,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,PTGS1,NA,NA,NA,P23219,Cyclooxygenase-1,0.9632999999999999,0.9016999999999998,SuperPred only
+Rosuvastatin,PTK2B,NA,NA,NA,Q14289,Protein tyrosine kinase 2 beta,0.509,0.9103,SuperPred only
+Rosuvastatin,PTPN1,NA,NA,NA,P18031,Protein-tyrosine phosphatase 1B,0.6389,0.9516999999999999,SuperPred only
+Rosuvastatin,PTPN2,NA,NA,NA,P17706,T-cell protein-tyrosine phosphatase,0.6313,0.93,SuperPred only
+Rosuvastatin,REN,P00797,Renin,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,RORB,NA,NA,NA,Q92753,Nuclear receptor ROR-beta,0.7077,0.955,SuperPred only
+Rosuvastatin,RPS6KA1,NA,NA,NA,Q15418,Ribosomal protein S6 kinase alpha 1,0.7471000000000001,0.8511,SuperPred only
+Rosuvastatin,RPS6KA6,NA,NA,NA,Q9UK32,Ribosomal protein S6 kinase alpha 6,0.6179000000000001,0.8,SuperPred only
+Rosuvastatin,S1PR5,NA,NA,NA,Q9H228,Sphingosine 1-phosphate receptor Edg-8,0.6616,1,SuperPred only
+Rosuvastatin,SCN3A,NA,NA,NA,Q9NY46,Sodium channel protein type III alpha subunit,0.7421000000000001,0.9690000000000001,SuperPred only
+Rosuvastatin,SCN4A,NA,NA,NA,P35499,Sodium channel protein type IV alpha subunit,0.6711,0.9231999999999999,SuperPred only
+Rosuvastatin,SIRT1,Q96EB6,NAD-dependent deacetylase sirtuin 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,SLC10A2,Q12908,Ileal bile acid transporter,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,SLC2A1,NA,NA,NA,P11166,Glucose transporter,0.5314,0.9875,SuperPred only
+Rosuvastatin,SLC5A2,P31639,Sodium/glucose cotransporter 2,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,SLC6A5,NA,NA,NA,Q9Y345,Glycine transporter 2,0.8615999999999999,0.9916999999999999,SuperPred only
+Rosuvastatin,SLC6A9,NA,NA,NA,P48067,Glycine transporter 1,0.61,0.9545,SuperPred only
+Rosuvastatin,SOAT1,P35610,Acyl coenzyme A:cholesterol acyltransferase 1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,SRC,P12931,Tyrosine-protein kinase SRC,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,SYK,P43405,Tyrosine-protein kinase SYK,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,TBXA2R,P21731,Thromboxane A2 receptor,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,TBXAS1,P24557,Thromboxane-A synthase,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,TFPI,NA,NA,NA,P10646,Tissue factor pathway inhibitor,0.5954999999999999,0.9732999999999999,SuperPred only
+Rosuvastatin,THRA,P10827,Thyroid hormone receptor alpha,0.100634432184,P10827,Thyroid hormone receptor alpha,0.83,0.9914999999999999,SwissTargetPrediction + SuperPred
+Rosuvastatin,THRB,P10828,Thyroid hormone receptor beta-1,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,TLR8,NA,NA,NA,Q9NR97,Toll-like receptor 8,0.5202,0.9625,SuperPred only
+Rosuvastatin,TMPRSS6,NA,NA,NA,Q8IU80,Transmembrane protease serine 6,0.5476000000000001,0.9833,SuperPred only
+Rosuvastatin,TNF,P01375,TNF-alpha,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,TOP1,P11387,DNA topoisomerase I,0.100634432184,P11387,DNA topoisomerase I,0.5305,0.97,SwissTargetPrediction + SuperPred
+Rosuvastatin,TOP2A,NA,NA,NA,P11388,DNA topoisomerase II alpha,0.7521000000000001,0.89,SuperPred only
+Rosuvastatin,TRIM24,NA,NA,NA,O15164,Transcription intermediary factor 1-alpha,0.8504999999999999,0.9556,SuperPred only
+Rosuvastatin,TYMS,P04818,Thymidylate synthase,0.100634432184,NA,NA,NA,NA,SwissTargetPrediction only
+Rosuvastatin,ULK3,NA,NA,NA,Q6PHR2,Serine/threonine-protein kinase ULK3,0.6966999999999999,0.785,SuperPred only
+Simvastatin,ABCC1,NA,NA,NA,P33527,Multidrug resistance-associated protein 1,0.7308,0.9636999999999999,SuperPred only
+Simvastatin,ABL1,P00519,Tyrosine-protein kinase ABL,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,ACACA,NA,NA,NA,Q13085,Acetyl-CoA carboxylase 1,0.5379999999999999,0.9304000000000001,SuperPred only
+Simvastatin,ACKR3,P25106,C-X-C chemokine receptor type 7,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,ADAM10,NA,NA,NA,O14672,ADAM10,0.7361,0.975,SuperPred only
+Simvastatin,ADORA2A,P29274,Adenosine A2a receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,ADRB1,NA,NA,NA,P08588,Beta-1 adrenergic receptor,0.6315,0.9556,SuperPred only
+Simvastatin,AGTR1,P30556,Type-1 angiotensin II receptor   (by homology),0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,AHCY,NA,NA,NA,P23526,Adenosylhomocysteinase,0.6104999999999999,0.8666999999999999,SuperPred only
+Simvastatin,ALOX5,P09917,Arachidonate 5-lipoxygenase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,ANPEP,NA,NA,NA,P15144,Aminopeptidase N,0.7505,0.9331,SuperPred only
+Simvastatin,APEX1,NA,NA,NA,P27695,DNA-(apurinic or apyrimidinic site) lyase,0.9661,0.9111,SuperPred only
+Simvastatin,APP,P05067,Beta amyloid A4 protein,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,AR,P10275,Androgen Receptor,0.106165761464,P10275,Androgen Receptor,0.5906,0.9643,SwissTargetPrediction + SuperPred
+Simvastatin,AURKB,NA,NA,NA,Q96GD4,Aurora kinase B/Inner centromere protein,0.5703,0.975,SuperPred only
+Simvastatin,AVPR1A,P37288,Vasopressin V1a receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,AXL,P30530,Tyrosine-protein kinase receptor UFO,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,BACE2,Q9Y5Z0,Beta secretase 2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,C5AR1,P21730,C5a anaphylatoxin chemotactic receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CACNA1B,NA,NA,NA,Q00975,Voltage-gated N-type calcium channel alpha-1B subunit,0.7048000000000001,0.9714,SuperPred only
+Simvastatin,CAPN1,NA,NA,NA,P07384,Calpain 1,0.5287999999999999,0.9304000000000001,SuperPred only
+Simvastatin,CASP3,NA,NA,NA,P42574,Caspase-3,0.5109,0.9825,SuperPred only
+Simvastatin,CASP6,NA,NA,NA,P55212,Caspase-6,0.5096,0.9756,SuperPred only
+Simvastatin,CASP8,NA,NA,NA,Q14790,Caspase-8,0.7229000000000001,0.9706,SuperPred only
+Simvastatin,CCNT1,O60563,Cyclin T1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CCR1,NA,NA,NA,P32246,C-C chemokine receptor type 1,0.7429000000000001,0.895,SuperPred only
+Simvastatin,CCR2,NA,NA,NA,P41597,C-C chemokine receptor type 2,0.6452,0.9856999999999999,SuperPred only
+Simvastatin,CD38,NA,NA,NA,P28907,Lymphocyte differentiation antigen CD38,0.5604,0.9527,SuperPred only
+Simvastatin,CDC25C,NA,NA,NA,P30307,Dual specificity phosphatase Cdc25C,0.596,0.9666999999999999,SuperPred only
+Simvastatin,CFTR,NA,NA,NA,P13569,Cystic fibrosis transmembrane conductance regulator,0.5343,0.9571000000000001,SuperPred only
+Simvastatin,CHRM1,NA,NA,NA,P11229,Muscarinic acetylcholine receptor M1,0.9131999999999999,0.9423,SuperPred only
+Simvastatin,CHRM2,NA,NA,NA,P08172,Muscarinic acetylcholine receptor M2,0.8861999999999999,0.9497,SuperPred only
+Simvastatin,CHRM3,NA,NA,NA,P20309,Muscarinic acetylcholine receptor M3,0.8821000000000001,0.9753000000000001,SuperPred only
+Simvastatin,CHRM4,NA,NA,NA,P08173,Muscarinic acetylcholine receptor M4,0.8673000000000001,0.9408,SuperPred only
+Simvastatin,CHRM5,NA,NA,NA,P08912,Muscarinic acetylcholine receptor M5,0.6175,0.9461999999999999,SuperPred only
+Simvastatin,CHRNA1,NA,NA,NA,P02708,Acetylcholine receptor; alpha1/beta1/delta/gamma,0.6736999999999999,0.9833,SuperPred only
+Simvastatin,CHRNB4,NA,NA,NA,P30926,Neuronal acetylcholine receptor; alpha4/beta4,0.75,1,SuperPred only
+Simvastatin,CLK4,NA,NA,NA,Q9HAZ1,Dual specificity protein kinase CLK4,0.7511,0.9445,SuperPred only
+Simvastatin,CNR2,P34972,Cannabinoid receptor 2   (by homology),0.106165761464,P34972,Cannabinoid CB2 receptor,0.9706,0.9725,SwissTargetPrediction + SuperPred
+Simvastatin,CRHR1,P34998,Corticotropin releasing factor receptor 1   (by homology),0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CSF1R,P07333,Macrophage colony stimulating factor receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CSNK2B,NA,NA,NA,P67870,Casein kinase II alpha/beta,0.6194999999999999,0.9923000000000001,SuperPred only
+Simvastatin,CTSD,NA,NA,NA,P07339,Cathepsin D,0.978,0.9895,SuperPred only
+Simvastatin,CYP17A1,P05093,Cytochrome P450 17A1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CYP19A1,P11511,Cytochrome P450 19A1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CYP24A1,Q07973,Cytochrome P450 24A1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CYP3A4,NA,NA,NA,P08684,Cytochrome P450 3A4,0.8379000000000001,0.9118999999999999,SuperPred only
+Simvastatin,CYP51A1,Q16850,Cytochrome P450 51,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,CYSLTR2,NA,NA,NA,Q9NS75,Cysteinyl leukotriene receptor 2,0.6243,0.98,SuperPred only
+Simvastatin,DCUN1D1,NA,NA,NA,Q96GG9,DCN1-like protein 1,0.7198,0.95,SuperPred only
+Simvastatin,EPHX2,P34913,Epoxide hydratase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,EZH2,Q15910,EZH2/SUZ12/EED/RBBP7/RBBP4,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,F10,P00742,Thrombin and coagulation factor X,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,F2,P00734,Thrombin,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,FCGRT,NA,NA,NA,P55899,IgG receptor FcRn large subunit p51,0.7621000000000001,0.9093000000000001,SuperPred only
+Simvastatin,FDFT1,P37268,Squalene synthetase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,FKBP1A,NA,NA,NA,P62942,FK506-binding protein 1A,0.7029000000000001,0.9704999999999999,SuperPred only
+Simvastatin,FLT1,P17948,Vascular endothelial growth factor receptor 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,FLT3,P36888,Tyrosine-protein kinase receptor FLT3,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,FNTA FNTB,P49354 P49356,Protein farnesyltransferase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,FPR1,NA,NA,NA,P21462,Formyl peptide receptor 1,0.8886,0.9356,SuperPred only
+Simvastatin,FPR2,NA,NA,NA,P25090,Lipoxin A4 receptor,0.8011,1,SuperPred only
+Simvastatin,FPR3,NA,NA,NA,Q6L5J4,FML2_HUMAN,0.5442,1,SuperPred only
+Simvastatin,FYN,NA,NA,NA,P06241,Tyrosine-protein kinase FYN,0.5302,0.8129000000000001,SuperPred only
+Simvastatin,GLRA1,NA,NA,NA,P23415,Glycine receptor subunit alpha-1,0.7094000000000001,0.9071000000000001,SuperPred only
+Simvastatin,GPR35,NA,NA,NA,Q9HC97,G-protein coupled receptor 35,0.5495,0.8934000000000001,SuperPred only
+Simvastatin,GPR55,NA,NA,NA,Q9Y2T6,G-protein coupled receptor 55,0.7541000000000001,0.7814999999999999,SuperPred only
+Simvastatin,GRIA2,P42262,"Glutamate receptor ionotropic, AMPA 2",0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,GRIN1,NA,NA,NA,Q05586,Glutamate NMDA receptor; GRIN1/GRIN2B,0.7822,0.9589,SuperPred only
+Simvastatin,GRIN2A GRIN1,Q12879 Q05586,Glutamate NMDA receptor; GRIN1/GRIN2A,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,GRM1,Q13255,Metabotropic glutamate receptor 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,GRM2,Q14416,Metabotropic glutamate receptor 2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,GSK3B,P49841,Glycogen synthase kinase-3 beta,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HCRTR1,O43613,Orexin receptor 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HCRTR2,O43614,Orexin receptor 2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HDAC1,Q13547,Histone deacetylase 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HDAC10,NA,NA,NA,Q969S8,Histone deacetylase 10,0.5077,0.9007999999999999,SuperPred only
+Simvastatin,HDAC2,Q92769,Histone deacetylase 2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HDAC6,Q9UBN7,Histone deacetylase 6,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HMGCR,P04035,HMG-CoA reductase,1,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HRH3,NA,NA,NA,Q9Y5N1,Histamine H3 receptor,0.5674,0.9143000000000001,SuperPred only
+Simvastatin,HRH4,NA,NA,NA,Q9H3N8,Histamine H4 receptor,0.5392,0.9381,SuperPred only
+Simvastatin,HSD11B1,P28845,11-beta-hydroxysteroid dehydrogenase 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HSD17B10,NA,NA,NA,Q99714,Endoplasmic reticulum-associated amyloid beta-peptide-binding protein,0.9598,0.7016,SuperPred only
+Simvastatin,HSD17B3,P37058,Estradiol 17-beta-dehydrogenase 3,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HSP90AA1,P07900,Heat shock protein HSP 90-alpha,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,HSP90AB1,NA,NA,NA,P08238,Heat shock protein HSP 90-beta,0.532,0.9677,SuperPred only
+Simvastatin,HTR2C,NA,NA,NA,P28335,Serotonin 2c (5-HT2c) receptor,0.5036,0.8961999999999999,SuperPred only
+Simvastatin,IDH1,O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,IGF1R,P08069,Insulin-like growth factor I receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,INSR,P06213,Insulin receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,ITGAL ICAM1 ITGB2,P20701 P05362 P05107,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,ITGB3,NA,NA,NA,P05106,Integrin alpha-V/beta-3,0.5405,0.9571000000000001,SuperPred only
+Simvastatin,ITK,Q08881,Tyrosine-protein kinase ITK/TSK,0.106165761464,Q08881,Tyrosine-protein kinase ITK/TSK,0.5136,0.95,SwissTargetPrediction + SuperPred
+Simvastatin,JAK3,P52333,Tyrosine-protein kinase JAK3,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,KCNA5,P22460,Voltage-gated potassium channel subunit Kv1.5,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,KCNK3,O14649,Potassium channel subfamily K member 3,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,KDM1A,NA,NA,NA,O60341,LSD1/CoREST complex,0.8858,0.9709,SuperPred only
+Simvastatin,KEAP1,NA,NA,NA,Q14145,Kelch-like ECH-associated protein 1,0.6621000000000001,0.8238,SuperPred only
+Simvastatin,KIF11,P52732,Kinesin-like protein 1,0.106165761464,P52732,Kinesin-like protein 1,0.5176000000000001,0.9318,SwissTargetPrediction + SuperPred
+Simvastatin,KIT,P10721,Stem cell growth factor receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,KLF5,NA,NA,NA,Q13887,Kruppel-like factor 5,0.8086999999999999,0.8633,SuperPred only
+Simvastatin,LCK,P06239,Tyrosine-protein kinase LCK,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,LIMK2,P53671,LIM domain kinase 2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MAP2K2,NA,NA,NA,P36507,Dual specificity mitogen-activated protein kinase kinase 2,0.5403,0.8,SuperPred only
+Simvastatin,MAP3K20,Q9NYL2,Mixed lineage kinase 7,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MAPK11,Q15759,MAP kinase p38 beta,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MAPK14,Q16539,MAP kinase p38 alpha,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MAPK8,P45983,c-Jun N-terminal kinase 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MAPK9,P45984,c-Jun N-terminal kinase 2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MDM2,Q00987,p53-binding protein Mdm-2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MERTK,Q12866,Proto-oncogene tyrosine-protein kinase MER,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,METAP2,NA,NA,NA,P50579,Methionine aminopeptidase 2,0.5054,0.9728,SuperPred only
+Simvastatin,MMP8,NA,NA,NA,P22894,Matrix metalloproteinase 8,0.5214,0.9466,SuperPred only
+Simvastatin,MST1R,Q04912,Macrophage-stimulating protein receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MTNR1A,P48039,Melatonin receptor 1A,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MTNR1B,P49286,Melatonin receptor 1B,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,MTOR,NA,NA,NA,P42345,Serine/threonine-protein kinase mTOR,0.5932999999999999,0.9278,SuperPred only
+Simvastatin,NAMPT,NA,NA,NA,P43490,Nicotinamide phosphoribosyltransferase,0.5249,0.9625,SuperPred only
+Simvastatin,NFE2L2,NA,NA,NA,Q16236,Nuclear factor erythroid 2-related factor 2,0.682,0.96,SuperPred only
+Simvastatin,NFKB1,NA,NA,NA,P19838,Nuclear factor NF-kappa-B p105 subunit,0.9697,0.9609000000000001,SuperPred only
+Simvastatin,NOX1,NA,NA,NA,Q9Y5S8,NADPH oxidase 1,0.5777,0.9548000000000001,SuperPred only
+Simvastatin,NR1H4,Q96RI1,Bile acid receptor FXR,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,NR1I2,NA,NA,NA,O75469,Pregnane X receptor,0.648,0.9473,SuperPred only
+Simvastatin,NR3C2,NA,NA,NA,P08235,Mineralocorticoid receptor,0.6436,1,SuperPred only
+Simvastatin,NTRK3,NA,NA,NA,Q16288,NT-3 growth factor receptor,0.6986999999999999,0.9589,SuperPred only
+Simvastatin,NTSR2,NA,NA,NA,O95665,Neurotensin receptor 2,0.6973,1,SuperPred only
+Simvastatin,P2RY12,NA,NA,NA,Q9H244,Purinergic receptor P2Y12,0.6573,0.96,SuperPred only
+Simvastatin,PDE10A,Q9Y233,Phosphodiesterase 10A,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PDE2A,O00408,Phosphodiesterase 2A,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PDE3A,NA,NA,NA,Q14432,Phosphodiesterase 3A,0.55,0.9294000000000001,SuperPred only
+Simvastatin,PDE4D,Q08499,Phosphodiesterase 4D,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PDE5A,O76074,Phosphodiesterase 5A,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PDGFRA,NA,NA,NA,P16234,Platelet-derived growth factor receptor alpha,0.6573,0.9107,SuperPred only
+Simvastatin,PDGFRB,P09619,Platelet-derived growth factor receptor beta,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PFKFB3,Q16875,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PGGT1B FNTA,P53609 P49354,Geranylgeranyl transferase type I,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PIK3CB,P42338,PI3-kinase p110-beta subunit,0.106165761464,P42338,PI3-kinase p110-beta subunit,0.7045,0.9875,SwissTargetPrediction + SuperPred
+Simvastatin,PIK3CD,NA,NA,NA,O00329,PI3-kinase p110-delta subunit,0.826,0.9647,SuperPred only
+Simvastatin,PIK3R1,NA,NA,NA,P27986,PI3-kinase p110-alpha/p85-alpha,0.6955,0.9433,SuperPred only
+Simvastatin,PIM1,P11309,Serine/threonine-protein kinase PIM1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PIM3,Q86V86,Serine/threonine-protein kinase PIM3,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PKM,P14618,Pyruvate kinase isozymes M1/M2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PRCP,P42785,Lysosomal Pro-X carboxypeptidase,0.106165761464,P42785,Lysosomal Pro-X carboxypeptidase,0.5521,1,SwissTargetPrediction + SuperPred
+Simvastatin,PRKCA,P17252,Protein kinase C alpha,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PRKCD,NA,NA,NA,Q05655,Protein kinase C delta,0.5516000000000001,0.9779000000000001,SuperPred only
+Simvastatin,PRSS1,NA,NA,NA,P07477,Trypsin I,0.6036,0.9,SuperPred only
+Simvastatin,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,P49810 Q9NZ42 Q92542 Q96BI3 P49768 Q8WW43,Gamma-secretase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PSMB1,NA,NA,NA,P20618,Proteasome component C5,0.7411999999999999,0.9,SuperPred only
+Simvastatin,PSMB5,NA,NA,NA,P28074,Proteasome Macropain subunit MB1,0.7592,0.9384999999999999,SuperPred only
+Simvastatin,PSMB9,NA,NA,NA,P28065,Proteasome subunit beta type-9,0.5664,0.975,SuperPred only
+Simvastatin,PTGER1,NA,NA,NA,P34995,Prostanoid EP1 receptor,0.6557,0.9571000000000001,SuperPred only
+Simvastatin,PTGER2,NA,NA,NA,P43116,Prostanoid EP2 receptor,0.6201,0.93,SuperPred only
+Simvastatin,PTGES,O14684,Prostaglandin E synthase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PTGS1,NA,NA,NA,P23219,Cyclooxygenase-1,0.9191000000000001,0.9016999999999998,SuperPred only
+Simvastatin,PTGS2,P35354,Cyclooxygenase-2,0.106165761464,P35354,Cyclooxygenase-2,0.7101000000000001,0.8963,SwissTargetPrediction + SuperPred
+Simvastatin,PTPN1,P18031,Protein-tyrosine phosphatase 1B,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,PTPN2,NA,NA,NA,P17706,T-cell protein-tyrosine phosphatase,0.6514,0.93,SuperPred only
+Simvastatin,PYGL,P06737,Liver glycogen phosphorylase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,REN,P00797,Renin,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,RET,P07949,Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,RORB,NA,NA,NA,Q92753,Nuclear receptor ROR-beta,0.6661,0.955,SuperPred only
+Simvastatin,RXFP1,NA,NA,NA,Q9HBX9,Relaxin receptor 1,0.626,0.825,SuperPred only
+Simvastatin,S1PR1,P21453,Sphingosine 1-phosphate receptor Edg-1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,S1PR3,Q99500,Sphingosine 1-phosphate receptor Edg-3,0.106165761464,Q99500,Sphingosine 1-phosphate receptor Edg-3,0.6839,0.9729000000000001,SwissTargetPrediction + SuperPred
+Simvastatin,S1PR5,NA,NA,NA,Q9H228,Sphingosine 1-phosphate receptor Edg-8,0.8099000000000001,1,SuperPred only
+Simvastatin,SCD,O00767,Acyl-CoA desaturase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,SCN2A,NA,NA,NA,Q99250,Sodium channel protein type II alpha subunit,0.6845,0.955,SuperPred only
+Simvastatin,SCN3A,NA,NA,NA,Q9NY46,Sodium channel protein type III alpha subunit,0.7658,0.9690000000000001,SuperPred only
+Simvastatin,SLC10A2,Q12908,Ileal bile acid transporter,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,SLC16A1,P53985,Monocarboxylate transporter 1,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,SLC40A1,NA,NA,NA,Q9NP59,Solute carrier family 40 member 1,0.6297,0.95,SuperPred only
+Simvastatin,SLC6A2,P23975,Norepinephrine transporter,1,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,SLC6A3,Q01959,Dopamine transporter,1,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,SLC6A5,NA,NA,NA,Q9Y345,Glycine transporter 2,0.895,0.9916999999999999,SuperPred only
+Simvastatin,SLC9A1,NA,NA,NA,P19634,Sodium/hydrogen exchanger 1,0.5971,0.9024000000000001,SuperPred only
+Simvastatin,SMYD2,Q9NRG4,N-lysine methyltransferase SMYD2,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,SRC,P12931,Tyrosine-protein kinase SRC,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,STING1,NA,NA,NA,Q86WV6,Stimulator of interferon genes protein,0.5112000000000001,0.9548000000000001,SuperPred only
+Simvastatin,SYK,P43405,Tyrosine-protein kinase SYK,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,TACR1,P25103,Neurokinin 1 receptor,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,TACR2,P21452,Neurokinin 2 receptor,1,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,TBXAS1,P24557,Thromboxane-A synthase,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,TFPI,NA,NA,NA,P10646,Tissue factor pathway inhibitor,0.7584000000000001,0.9732999999999999,SuperPred only
+Simvastatin,TGFBR1,P36897,TGF-beta receptor type I,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,TGFBR2,P37173,TGF-beta receptor type II,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only
+Simvastatin,TMPRSS6,NA,NA,NA,Q8IU80,Transmembrane protease serine 6,0.7326999999999999,0.9833,SuperPred only
+Simvastatin,TOP2A,NA,NA,NA,P11388,DNA topoisomerase II alpha,0.6276,0.89,SuperPred only
+Simvastatin,TRIM24,NA,NA,NA,O15164,Transcription intermediary factor 1-alpha,0.8303,0.9556,SuperPred only
+Simvastatin,TYRO3,Q06418,Tyrosine-protein kinase receptor TYRO3,0.106165761464,NA,NA,NA,NA,SwissTargetPrediction only

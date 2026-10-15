@@ -1,0 +1,49 @@
+MOALabel,DrugCount,BestDiscordantRank,Drugs
+PARP inhibitors,4,2,NU1025; AG 14361; Iniparib; Veliparib
+PI3K inhibitors,3,18,AZD-6482; GSK 1059615; YM 201636
+Serotonin receptor antagonists,3,23,RS-127445; Sertindole; Melperone
+Phosphodiesterase inhibitors,2,9,T-0156; Pentoxifylline
+BCL inhibitors,2,21,Gossypol; Navitoclax
+p38 MAPK inhibitors,2,71,SB-203580; VX-745
+Dopamine receptor antagonists,2,78,Sertindole; Melperone
+HMGCR inhibitors,1,1,atorvastatin
+FLT3 inhibitors,1,10,Amuvatinib
+KIT inhibitors,1,10,Amuvatinib
+Pdgfr tyrosine kinase receptor inhibitors,1,10,Amuvatinib
+Rad51 inhibitors,1,10,Amuvatinib
+Ret tyrosine kinase inhibitors,1,10,Amuvatinib
+Atpase inhibitors,1,15,Ursolic acid
+NF-kB pathway inhibitors,1,15,Ursolic acid
+STAT inhibitors,1,15,Ursolic acid
+Mcl1 inhibitors,1,21,Gossypol
+Benzodiazepine receptor antagonists,1,22,PK-11195
+Anticancer agents,1,24,Phenethylisothiocyanate
+Gluconeogenesis inhibitors,1,25,Benfluorex
+Histamine receptor agonists,1,28,Amthamine
+Hcn channel blockers,1,29,ZD-7288
+Cyclooxygenase inhibitors,1,31,Etodolac
+Gaba receptor modulators,1,32,Amidate
+Histamine receptor antagonists,1,47,Loratadine
+Dehydrogenase inhibitors,1,48,Azathioprine
+Glucocorticoid receptor agonists,1,52,"9-Fluoro-11,17,21-trihydroxy-16-methylpregna-1,4-diene-3,20-dione"
+Xanthine oxidase inhibitors,1,55,Topiroxostat
+Leukotriene synthesis inhibitors,1,61,Zileuton
+Lipoxygenase inhibitors,1,61,Zileuton
+Aldehyde dehydrogenase activators,1,64,ALDA 1
+Choleretic agents,1,65,Fenipentol
+Raf inhibitors,1,66,AZ628
+VEGFR inhibitors,1,67,Tivozanib
+Src inhibitors,1,69,Saracatinib
+Cc chemokine receptor antagonists,1,70,RS504393
+Sodium channel blockers,1,73,Quinidine Gluconate
+Tubulin polymerization inhibitors,1,76,ABT-751
+Atp channel activators,1,77,Pinacidil
+Potassium channel activators,1,77,Pinacidil
+Caspase activators,1,80,PAC-1
+Mitochondrial dna polymerase inhibitors,1,85,Menadione
+Phosphatase inhibitors,1,85,Menadione
+Ion channel antagonists,1,88,Erastin
+Free radical scavengers,1,89,Nicaraven
+Rna polymerase inhibitors,1,94,triptolide
+ATR kinase inhibitors,1,98,VE-821
+Serine protease inhibitors,1,99,Phenylmethylsulfonylfluoride

@@ -1,0 +1,29 @@
+drug1,drug2,family1,family2,comparison_group,tanimoto
+Simvastatin,Lovastatin,Type I,Type I,Within Type I,0.7424242424242424
+Rosuvastatin,Cerivastatin,Type II,Type II,Within Type II,0.6
+Lovastatin,Pravastatin,Type I,Type I,Within Type I,0.5466666666666666
+Fluvastatin,Pitavastatin,Type II,Type II,Within Type II,0.5362318840579711
+Pitavastatin,Cerivastatin,Type II,Type II,Within Type II,0.5068493150684932
+Fluvastatin,Cerivastatin,Type II,Type II,Within Type II,0.49295774647887325
+Rosuvastatin,Pitavastatin,Type II,Type II,Within Type II,0.45454545454545453
+Rosuvastatin,Fluvastatin,Type II,Type II,Within Type II,0.44
+Atorvastatin,Fluvastatin,Type II,Type II,Within Type II,0.4025974025974026
+Simvastatin,Pravastatin,Type I,Type I,Within Type I,0.3855421686746988
+Atorvastatin,Pitavastatin,Type II,Type II,Within Type II,0.3493975903614458
+Atorvastatin,Cerivastatin,Type II,Type II,Within Type II,0.3493975903614458
+Atorvastatin,Rosuvastatin,Type II,Type II,Within Type II,0.3103448275862069
+Atorvastatin,Pravastatin,Type II,Type I,Between families,0.23655913978494625
+Cerivastatin,Pravastatin,Type II,Type I,Between families,0.20212765957446807
+Rosuvastatin,Pravastatin,Type II,Type I,Between families,0.19791666666666666
+Fluvastatin,Pravastatin,Type II,Type I,Between families,0.1978021978021978
+Pitavastatin,Pravastatin,Type II,Type I,Between families,0.18947368421052632
+Cerivastatin,Lovastatin,Type II,Type I,Between families,0.10784313725490197
+Atorvastatin,Lovastatin,Type II,Type I,Between families,0.10576923076923077
+Rosuvastatin,Lovastatin,Type II,Type I,Between families,0.10576923076923077
+Fluvastatin,Lovastatin,Type II,Type I,Between families,0.10101010101010101
+Pitavastatin,Lovastatin,Type II,Type I,Between families,0.0970873786407767
+Pitavastatin,Simvastatin,Type II,Type I,Between families,0.08737864077669903
+Cerivastatin,Simvastatin,Type II,Type I,Between families,0.08737864077669903
+Rosuvastatin,Simvastatin,Type II,Type I,Between families,0.08571428571428572
+Fluvastatin,Simvastatin,Type II,Type I,Between families,0.08
+Atorvastatin,Simvastatin,Type II,Type I,Between families,0.07547169811320754

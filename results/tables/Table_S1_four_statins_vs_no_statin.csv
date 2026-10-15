@@ -1,0 +1,43 @@
+Phase,Section,Characteristic,Atorvastatin,No statin (Atorvastatin match),SMD (Atorvastatin),Rosuvastatin,No statin (Rosuvastatin match),SMD (Rosuvastatin),Simvastatin,No statin (Simvastatin match),SMD (Simvastatin),Pravastatin,No statin (Pravastatin match),SMD (Pravastatin)
+Before,Demographics,"Age at index, years, mean ± SD",57.1 ± 12.0,42.3 ± 18.1,0.9663,58.8 ± 11.7,42.4 ± 18.1,1.0800,55.7 ± 13.4,42.4 ± 18.1,0.8406,52.1 ± 14.5,42.4 ± 18.1,0.5918
+Before,Demographics,"Male, %",66.3,57.1,0.1902,60.9,57.2,0.0753,65.7,57.2,0.1773,59.3,57.2,0.0430
+Before,Demographics,"Female, %",33.7,42.9,0.1897,39.1,42.8,0.0748,34.3,42.8,0.1768,40.7,42.8,0.0425
+Before,"Diagnoses, %",Genitourinary diseases (N00–N99),99.0,96.4,0.1689,99.1,96.5,0.1757,97.1,96.5,0.0305,99.5,96.5,0.2103
+Before,"Diagnoses, %",Hypertensive diseases (I10–I1A),96.0,86.6,0.3393,96.7,86.7,0.3680,92.1,86.7,0.1748,94.5,86.7,0.2672
+Before,"Diagnoses, %",Essential hypertension (I10),71.0,57.4,0.2867,68.7,57.2,0.2384,63.5,57.2,0.1294,66.4,57.2,0.1891
+Before,"Diagnoses, %",Diabetes mellitus (E08–E13),60.4,25.4,0.7564,60.9,25.2,0.7710,44.8,25.2,0.4180,38.2,25.2,0.2809
+Before,"Diagnoses, %",Ischemic heart diseases (I20–I25),44.1,11.8,0.7699,41.3,11.8,0.7106,29.1,11.8,0.4400,22.1,11.8,0.2779
+Before,"Diagnoses, %",Other nervous system disorders (G89–G99),22.5,26.4,0.0899,25.1,26.4,0.0300,17.7,26.4,0.2124,16.4,26.4,0.2475
+Before,"Diagnoses, %",Heart failure (I50),19.6,9.4,0.2920,18.1,9.3,0.2580,13.1,9.3,0.1191,11.5,9.3,0.0726
+Before,"Diagnoses, %",Neoplasms (C00–D49),16.3,9.3,0.2092,16.7,9.2,0.2237,13.4,9.2,0.1336,13.9,9.2,0.1471
+Before,"Diagnoses, %",Kidney transplant failure (T86.12),6.6,9.3,0.0985,5.1,9.2,0.1592,11.2,9.2,0.0661,11.1,9.2,0.0616
+Before,"Diagnoses, %",Diseases of liver (K70–K77),7.6,9.7,0.0753,9.5,9.5,0.0004,5.9,9.5,0.1363,7.2,9.5,0.0846
+Before,"Diagnoses, %",Kidney transplant rejection (T86.11),3.6,6.0,0.1091,3.5,5.9,0.1133,9.2,5.9,0.1266,7.1,5.9,0.0495
+Before,"Diagnoses, %",Tobacco use (Z72.0),0.8,0.6,0.0287,0.9,0.6,0.0388,1.8,0.6,0.1153,1.0,0.6,0.0472
+Before,"Medications, %",Immunological agents (IM000),95.4,84.9,0.3567,95.6,85.1,0.3621,92.6,85.1,0.2420,96.8,85.1,0.4182
+Before,"Medications, %",Beta-blocking agents (C07),70.2,52.7,0.3655,67.4,52.5,0.3079,67.2,52.5,0.3047,60.5,52.5,0.1619
+Before,"Medications, %",Aspirin,30.4,11.1,0.4897,28.9,10.9,0.4609,27.3,10.9,0.4243,26.2,10.9,0.3998
+Before,"Medications, %",Renin–angiotensin agents (C09),24.8,15.7,0.2284,23.8,15.5,0.2111,28.5,15.5,0.3190,17.9,15.5,0.0649
+Before,Laboratory,"Total cholesterol recorded, %",35.6,38.8,0.0666,39.7,39.8,0.0013,36.5,39.7,0.0674,26.5,39.7,0.2850
+Before,Laboratory,"Total cholesterol, mg/dL, mean ± SDᵃ",146.6 ± 44.6,164.8 ± 47.9,0.3923,152.6 ± 57.6,165.0 ± 47.7,0.2355,149.8 ± 45.3,165.0 ± 47.7,0.3267,161.5 ± 47.6,165.0 ± 47.7,0.0742
+After,Demographics,"Age at index, years, mean ± SD",54.9 ± 12.2,55.3 ± 13.3,0.0316,58.5 ± 11.7,59.0 ± 12.1,0.0452,55.6 ± 13.4,55.1 ± 13.9,0.0420,52.1 ± 14.5,51.7 ± 14.8,0.0260
+After,Demographics,"Male, %",62.5,62.4,0.0035,60.5,60.4,0.0019,65.6,67.8,0.0474,59.2,60.1,0.0186
+After,Demographics,"Female, %",37.5,37.6,0.0035,39.5,39.6,0.0019,34.4,32.2,0.0474,40.8,39.9,0.0186
+After,"Diagnoses, %",Genitourinary diseases (N00–N99),98.6,98.8,0.0111,99.1,99.1,0.0000,97.0,98.0,0.0594,99.5,99.7,0.0428
+After,"Diagnoses, %",Hypertensive diseases (I10–I1A),94.9,95.1,0.0087,96.6,97.0,0.0214,92.0,94.8,0.1125,94.5,95.4,0.0414
+After,"Diagnoses, %",Essential hypertension (I10),68.4,67.9,0.0109,68.1,68.8,0.0162,63.8,68.4,0.0983,66.3,68.3,0.0427
+After,"Diagnoses, %",Diabetes mellitus (E08–E13),51.3,50.1,0.0232,59.9,59.6,0.0058,44.2,44.8,0.0112,38.1,35.9,0.0471
+After,"Diagnoses, %",Ischemic heart diseases (I20–I25),30.5,29.1,0.0304,39.8,35.6,0.0875,28.4,25.1,0.0756,22.0,20.1,0.0469
+After,"Diagnoses, %",Other nervous system disorders (G89–G99),24.0,23.6,0.0084,25.2,24.2,0.0240,17.8,16.5,0.0345,16.4,14.7,0.0452
+After,"Diagnoses, %",Heart failure (I50),15.8,14.6,0.0334,18.0,16.2,0.0475,12.8,10.4,0.0755,11.6,10.6,0.0319
+After,"Diagnoses, %",Neoplasms (C00–D49),14.1,13.5,0.0195,15.9,14.4,0.0420,13.6,12.1,0.0445,13.8,13.1,0.0213
+After,"Diagnoses, %",Kidney transplant failure (T86.12),7.5,6.5,0.0379,5.3,3.4,0.0926,11.2,10.2,0.0301,11.1,10.4,0.0235
+After,"Diagnoses, %",Diseases of liver (K70–K77),8.4,7.7,0.0271,9.8,9.1,0.0225,5.9,5.6,0.0160,7.2,6.9,0.0107
+After,"Diagnoses, %",Kidney transplant rejection (T86.11),4.0,3.6,0.0231,3.6,2.7,0.0485,9.1,10.0,0.0316,7.1,6.4,0.0291
+After,"Diagnoses, %",Tobacco use (Z72.0),0.8,0.7,0.0126,0.9,0.9,0.0000,1.9,1.9,0.0000,1.0,0.9,0.0094
+After,"Medications, %",Immunological agents (IM000),94.2,94.8,0.0258,95.5,96.5,0.0529,92.6,97.0,0.2019,96.8,97.7,0.0559
+After,"Medications, %",Beta-blocking agents (C07),65.9,67.0,0.0223,66.9,66.6,0.0080,66.9,71.6,0.1008,60.4,60.9,0.0093
+After,"Medications, %",Aspirin,21.3,20.4,0.0218,27.4,25.4,0.0449,26.6,25.7,0.0212,26.1,23.5,0.0611
+After,"Medications, %",Renin–angiotensin agents (C09),20.5,19.9,0.0131,22.3,22.1,0.0045,27.9,27.0,0.0208,17.9,17.4,0.0143
+After,Laboratory,"Total cholesterol recorded, %",36.9,37.2,0.0052,39.9,39.0,0.0193,36.4,34.8,0.0349,26.5,23.8,0.0608
+After,Laboratory,"Total cholesterol, mg/dL, mean ± SDᵃ",149.0 ± 45.0,164.1 ± 49.0,0.3212,152.2 ± 57.2,165.8 ± 54.7,0.2430,149.8 ± 45.4,163.6 ± 42.9,0.3130,161.5 ± 47.6,166.5 ± 48.4,0.1040

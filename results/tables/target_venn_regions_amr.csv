@@ -1,0 +1,16 @@
+Region,nStatins,Targets,AMRGenes,AMRGeneList
+Atorvastatin,1,63,3,RARG;ITGAL;RARA
+Rosuvastatin,1,55,5,CASP2;ACACB;CTSA;OPRD1;TYMS
+Simvastatin,1,57,6,CCNT1;JAK3;CSF1R;MTNR1B;PFKFB3;LIMK2
+Pravastatin,1,49,1,SAE1
+Atorvastatin + Rosuvastatin,2,45,5,PPARD;LGALS3;PTGIR;CDK1;TOP1
+Atorvastatin + Simvastatin,2,12,1,FKBP1A
+Atorvastatin + Pravastatin,2,11,1,VDR
+Rosuvastatin + Simvastatin,2,10,0,
+Rosuvastatin + Pravastatin,2,8,1,SCN4A
+Simvastatin + Pravastatin,2,33,2,PRKCA;SLC6A3
+Atorvastatin + Rosuvastatin + Simvastatin,3,7,1,KIF11
+Atorvastatin + Rosuvastatin + Pravastatin,3,10,1,THRA
+Atorvastatin + Simvastatin + Pravastatin,3,14,0,
+Rosuvastatin + Simvastatin + Pravastatin,3,9,0,
+Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,4,48,6,PRCP;DCUN1D1;CHRNB4;PIK3CD;TOP2A;APEX1

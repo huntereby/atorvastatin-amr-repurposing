@@ -1,0 +1,432 @@
+TargetGene,Atorvastatin,Rosuvastatin,Simvastatin,Pravastatin,StatinCount,Region,AMRGene,AMRDirection,AMR_logFC,AMR_FDR
+ABCC1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+ADAM10,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+APEX1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,TRUE,Up,0.4013675238095189,0.04068388041591438
+AURKB,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CAPN1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CASP6,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CASP8,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CCR1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CDC25C,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CHRNB4,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,TRUE,Down,-0.30206617857143225,0.00695053037377397
+CSNK2B,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CTSD,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+DCUN1D1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,TRUE,Down,-0.6175065238095261,0.00477529864670463
+FPR1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+FPR2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+GLRA1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+GPR55,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+GRIA2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+GRIN1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HDAC1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HDAC2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HDAC6,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HMGCR,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+ITGB3,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+KLF5,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+MTOR,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NFE2L2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NFKB1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NOX1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NR1I2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NR3C2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NTSR2,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PIK3CB,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PIK3CD,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,TRUE,Up,0.2623182380952347,0.01711532757027161
+PIK3R1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PRCP,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,TRUE,Up,0.3505909523809496,0.00301044116995448
+PRSS1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PSMB9,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGER1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGS1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTPN1,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+RORB,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+S1PR5,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SCN3A,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SLC6A5,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+TMPRSS6,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+TOP2A,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,TRUE,Down,-0.3345237619047632,0.0345958465267094
+TRIM24,1,1,1,1,4,Atorvastatin + Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+ANPEP,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+APH1A,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+CACNA1B,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CASP3,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+CCR2,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CHRM1,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CHRM3,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CHRM5,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CYP3A4,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CYSLTR2,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+ERAP1,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+GSK3B,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HSD11B1,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HSD17B10,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HTR2A,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+HTR2C,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+ITK,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+KIF11,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,TRUE,Down,-0.3522910595238118,0.03569357504893402
+LTB4R,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+MAPK14,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+MMP8,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NR1H4,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+NR3C1,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+NTRK3,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+P2RY12,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PDE4D,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PDE5A,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+PDGFRA,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PDGFRB,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+PSMB1,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGER2,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGER3,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGER4,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+PTPN2,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+S1PR3,1,0,1,1,3,Atorvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SLC10A2,1,1,1,0,3,Atorvastatin + Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+SLC2A1,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+TFPI,0,1,1,1,3,Rosuvastatin + Simvastatin + Pravastatin,FALSE,NA,NA,NA
+THRA,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,TRUE,Up,0.22883940476189937,0.0102825842053717
+TNF,1,1,0,1,3,Atorvastatin + Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+ABL1,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+ACACA,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+ADORA1,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+ADORA2B,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+ADRB1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+AHCY,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+ALOX5,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+AR,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+BACE1,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+BACE2,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+CASP1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CASP7,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CD38,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CDK1,1,1,0,0,2,Atorvastatin + Rosuvastatin,TRUE,Down,-0.17887536904762147,0.02621928205725327
+CDK2,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CDK5,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CFTR,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+CHKA,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CHRM2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CHRM4,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CHRNA1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CLK4,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CMA1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CNR2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CPT1B,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+CTSK,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+CYP17A1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CYP19A1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+CYP2A6,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+DHODH,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+DPP7,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+DPP8,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+DRD2,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+DUSP3,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+EDNRA,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+EDNRB,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+EGLN1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+ELANE,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+F10,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+F2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+FAAH,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+FDFT1,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+FKBP1A,1,0,1,0,2,Atorvastatin + Simvastatin,TRUE,Up,0.2038747619047552,0.04361381637066725
+FLT1,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+FLT3,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+FNTA FNTB,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+FPR3,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+GBA2,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+GUSB,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+HDAC10,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+HIF1A,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+HRH3,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HSP90AA1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+HSP90AB1,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+HTR7,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+IDO1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+IKBKB,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+IMPDH2,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+INSR,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+ITGA2B ITGB3,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+ITGAV ITGB3,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+KCNK9,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+KDM1A,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+KDM6B,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+KEAP1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+KIT,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+KLK7,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+LGALS3,1,1,0,0,2,Atorvastatin + Rosuvastatin,TRUE,Down,-0.42477658333334034,0.01853177443227731
+MAPK10,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+MAPK11,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+MAPK8,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+METAP2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+MME,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+MMP1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+MMP13,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+MMP2,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+MMP9,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+NAMPT,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+NR1H2,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+NTRK1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+PDE6D,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+PGR,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+PKM,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PLA2G2A,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+PPARD,1,1,0,0,2,Atorvastatin + Rosuvastatin,TRUE,Up,0.19805692857142887,0.0079158141225355
+PPARG,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+PRKAA1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+PRKCA,0,0,1,1,2,Simvastatin + Pravastatin,TRUE,Up,0.6642817857142838,0.00519844493868192
+PRKCD,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PSMB5,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGDR,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGDR2,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+PTGES,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PTGFR,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+PTGIR,1,1,0,0,2,Atorvastatin + Rosuvastatin,TRUE,Up,0.2302102738095213,0.02059987377003858
+PTGIS,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+PTGS2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+PYGL,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+REN,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+RXFP1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SCN2A,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SCN4A,0,1,0,1,2,Rosuvastatin + Pravastatin,TRUE,Down,-0.19046235714286208,0.04776718812888163
+SLC40A1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SLC6A2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SLC6A3,0,0,1,1,2,Simvastatin + Pravastatin,TRUE,Down,-0.18547958333333536,0.04539341198807132
+SLC6A9,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+SLC9A1,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+SOAT1,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+SRC,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+SRD5A2,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+STAT3,1,0,0,1,2,Atorvastatin + Pravastatin,FALSE,NA,NA,NA
+SYK,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+TACR2,0,0,1,1,2,Simvastatin + Pravastatin,FALSE,NA,NA,NA
+TBXA2R,0,1,0,1,2,Rosuvastatin + Pravastatin,FALSE,NA,NA,NA
+TBXAS1,0,1,1,0,2,Rosuvastatin + Simvastatin,FALSE,NA,NA,NA
+THRB,1,1,0,0,2,Atorvastatin + Rosuvastatin,FALSE,NA,NA,NA
+TOP1,1,1,0,0,2,Atorvastatin + Rosuvastatin,TRUE,Down,-0.1985366666666728,0.04816504751456799
+TYRO3,1,0,1,0,2,Atorvastatin + Simvastatin,FALSE,NA,NA,NA
+VDR,1,0,0,1,2,Atorvastatin + Pravastatin,TRUE,Up,0.31017520238094676,0.04412414411155862
+ABCB1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+ACACB,0,1,0,0,1,Rosuvastatin,TRUE,Up,0.26196551190476125,0.00199944894879895
+ACE,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ACHE,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+ACKR3,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+ADAM17,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ADORA2A,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+ADORA3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+AGTR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+AKR1B1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+AKR1C3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+AMPD3,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+AOC3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+APP,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+ATP2A1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+ATP2A2,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+AURKA,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+AVPR1A,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+AXL,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+BCL2L1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+BCR,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+BRD2,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+BRD3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+BRD4,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+BRDT,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+BTK,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+C5AR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+CA3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CASP2,0,1,0,0,1,Rosuvastatin,TRUE,Up,0.28252158333332744,0.00117127155619918
+CCKBR,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CCNB3 CDK1 CCNB1 CCNB2,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CCNE2 CDK2 CCNE1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CCNT1,0,0,1,0,1,Simvastatin,TRUE,Up,0.2458512261904744,7.092303913430655e-4
+CCR5,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CDK2 CCNA1 CCNA2,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CDK4,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CES1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+CETP,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+CFD,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CHRNA7,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+CNR1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CPA1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CPT1A,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CPT2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CRHR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+CSF1R,0,0,1,0,1,Simvastatin,TRUE,Up,0.4476269999999989,0.01131026429847698
+CSNK1E,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CSNK2A1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CTNNB1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+CTSA,0,1,0,0,1,Rosuvastatin,TRUE,Up,0.31865690476190345,0.01854920472323999
+CXCR1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+CXCR4,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CYP24A1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+CYP26A1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CYP2C9,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+CYP51A1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+DGAT1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+DNMT3A,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+DOT1L,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+DPP4,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+DPP9,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+ECE1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+EGFR,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ENPP2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+EPHX2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+ESR2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+EZH2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+F13A1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+FASN,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+FCGRT,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+FFAR1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+FKBP5,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+FOLH1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+FOLR1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+FYN,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+GABRA1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+GALK1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+GCG,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+GCK,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+GGPS1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+GIPR,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+GPR35,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+GRB2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+GRIN2A GRIN1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+GRM1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+GRM2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+GSK3A,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+GSTP1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+HCRTR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+HCRTR2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+HRH1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+HRH4,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+HSD11B2,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+HSD17B2,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+HSD17B3,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+HTR1A,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+IDH1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+IGF1R,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+IKBKE,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+IL1B,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+IMPDH1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ITGA4,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+ITGAL,1,0,0,0,1,Atorvastatin,TRUE,Up,0.3285705952380944,0.01086955973672854
+ITGAL ICAM1 ITGB2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+ITGAV ITGB6,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ITGB1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ITGB1 ITGA4,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ITGB5 ITGAV,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+ITGB7 ITGA4,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+JAK3,0,0,1,0,1,Simvastatin,TRUE,Up,0.31692024999999724,0.00848085505399906
+JMJD7-PLA2G4B,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+JUN,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+KAT6A,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+KCNA5,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+KCNH2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+KCNK3,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+KDR,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+KLK5,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+LANCL2,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+LCK,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+LIMK2,0,0,1,0,1,Simvastatin,TRUE,Up,0.3615830833333291,0.04312477482585046
+LIPC,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+LIPG,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+LNPEP,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+LPAR1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+LPAR2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+LPAR3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+LTA4H,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+MAP2K2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MAP3K20,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MAPK3,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+MAPK9,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MDM2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MERTK,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MMEL1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+MMP12,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+MMP16,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+MST1R,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MTNR1A,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+MTNR1B,0,0,1,0,1,Simvastatin,TRUE,Down,-0.23979266666666987,0.01639540209933894
+N/A,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+NLK,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+NLRP3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+NOS2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+NPC1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+NR1H3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+NR2E3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+NR4A2,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+NTRK2,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+OPRD1,0,1,0,0,1,Rosuvastatin,TRUE,Down,-0.20522133333333237,0.02749067280760635
+OPRK1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+OPRM1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+P2RX3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PARP1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+PDE10A,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PDE11A,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+PDE2A,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PDE3A,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PDE3B,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+PDE4A,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+PDE4B,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+PFKFB3,0,0,1,0,1,Simvastatin,TRUE,Up,0.5018342261904802,0.0249444621676377
+PGGT1B FNTA,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PHGDH,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PIM1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PIM3,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PLA2G4A,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+PLAT,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+PNLIP,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PPARA,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+PPP1CC,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PPP2CA,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PPP5C,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PRKCB,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PRKCE,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PRKCG,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PRKCH,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PRKCQ,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+PTK2B,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+PTPN11,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+PTPN22,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+RAB9A,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+RARA,1,0,0,0,1,Atorvastatin,TRUE,Up,0.2892764642857113,0.04645833722684044
+RARB,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+RARG,1,0,0,0,1,Atorvastatin,TRUE,Up,0.2312835714285688,0.00682958235083541
+RASGRP3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+RET,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+RPS6KA1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+RPS6KA6,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+RXRA,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+S1PR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+SAE1,0,0,0,1,1,Pravastatin,TRUE,Up,0.29208470238094897,0.0024689964039377
+SCD,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+SERPINE1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+SF3B3,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+SIRT1,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+SLC16A1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+SLC1A1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+SLC1A2,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+SLC1A3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+SLC5A2,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+SLC6A1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+SMYD2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+SPHK1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+SSTR1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+STAT1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+STING1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+STK3,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+TACR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+TBK1,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+TDP1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+TERT,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+TGFBR1,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+TGFBR2,0,0,1,0,1,Simvastatin,FALSE,NA,NA,NA
+TLR4,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+TLR8,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+TLR9,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+TTL,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+TYMS,0,1,0,0,1,Rosuvastatin,TRUE,Down,-0.3533220357142861,0.0369543736057257
+ULK3,0,1,0,0,1,Rosuvastatin,FALSE,NA,NA,NA
+USP7,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA
+VCP,1,0,0,0,1,Atorvastatin,FALSE,NA,NA,NA
+XPO1,0,0,0,1,1,Pravastatin,FALSE,NA,NA,NA

@@ -1,0 +1,11 @@
+OverallDiscordantRank,Target,Similarity,TargetSignature,TargetCellLine,TargetConcentration,TargetTime,pValue,FDAProduct,FDAActiveIngredient,FDAMarketingStatus
+1,atorvastatin,-0.8463297078,LINCSCP_50693,PL21,10uM,6h,0,Lipitor,Atorvastatin Calcium,Prescription
+31,Etodolac,-0.6099970071,LINCSCP_143336,MCF7,0.37uM,24h,2.815331471e-10,Etodolac,Etodolac,Prescription
+32,Amidate,-0.608909485,LINCSCP_223200,HT29,10uM,6h,3.087764239e-10,Amidate,Etomidate,Prescription
+47,Loratadine,-0.591961564,LINCSCP_108443,HELA,10uM,24h,1.246411801e-9,Claritin,Loratadine,Over-the-counter
+48,Azathioprine,-0.5908213143,LINCSCP_212380,HA1E,20uM,6h,1.365154223e-9,Imuran,Azathioprine,Prescription
+58,Dichlorphenamide,-0.5826898651,LINCSCP_33531,MCF7,10uM,6h,2.585916914e-9,Keveyis,Dichlorphenamide,Prescription
+61,Zileuton,-0.581584165,LINCSCP_54426,SW948,100uM,6h,2.816780383e-9,Zileuton,Zileuton,Prescription
+67,Tivozanib,-0.5729385786,LINCSCP_133294,MCF7,1.11uM,24h,5.437870015e-9,Fotivda,Tivozanib Hydrochloride,Prescription
+72,Pentoxifylline,-0.5693473784,LINCSCP_139672,MCF7,0.12uM,24h,7.106951042e-9,Trental,Pentoxifylline,Prescription
+73,Quinidine Gluconate,-0.5692396166,LINCSCP_139802,MCF7,1.11uM,24h,7.163913414e-9,Quinidine Gluconate,Quinidine Gluconate,Prescription

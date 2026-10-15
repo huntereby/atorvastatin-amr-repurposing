@@ -1,0 +1,5 @@
+Drug,SwissTargets,SuperPredTargets,BothMethods,UnionTargets
+Atorvastatin,100,119,9,210
+Rosuvastatin,100,106,14,192
+Simvastatin,100,98,8,190
+Pravastatin,95,99,12,182

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Insights into renal transplant rejection: potential role of atorvastatin as a repurposed therapy"
+type: software
+license: MIT
+authors:
+  - family-names: Eby
+    given-names: Hunter
+    orcid: "https://orcid.org/0000-0002-9029-9768"
+  - family-names: Ryan
+    given-names: William V
+    orcid: "https://orcid.org/0000-0003-4868-4002"
+  - family-names: Wood
+    given-names: Jacob Francis
+    orcid: "https://orcid.org/0009-0002-4480-3393"
+  - family-names: Davuluri
+    given-names: Tarak
+    orcid: "https://orcid.org/0009-0005-8252-9913"
+  - family-names: Vergis
+    given-names: John
+    orcid: "https://orcid.org/0009-0006-0864-3264"
+  - family-names: Arquette
+    given-names: McKenzie
+    orcid: "https://orcid.org/0009-0008-9153-0395"
+  - family-names: Ratna
+    given-names: Aarushi
+    orcid: "https://orcid.org/0009-0009-0436-6476"
+  - family-names: Rees
+    given-names: Michael
+  - family-names: Weistuch
+    given-names: Corey
+    orcid: "https://orcid.org/0000-0001-6044-2511"
+  - family-names: McCullumsmith
+    given-names: Robert
+    orcid: "https://orcid.org/0000-0001-6921-7150"

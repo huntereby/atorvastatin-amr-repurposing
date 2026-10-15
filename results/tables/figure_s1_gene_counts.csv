@@ -1,0 +1,9 @@
+Metric,Value
+Genes tested,23307
+FDR < 0.05 higher in AMR,1181
+FDR < 0.05 lower in AMR,1251
+Top-10% genes per direction,2331
+Up log2FC cutoff,0.1942
+Down log2FC cutoff,-0.1678
+Target-overlap set higher in AMR,977
+Target-overlap set lower in AMR,1069

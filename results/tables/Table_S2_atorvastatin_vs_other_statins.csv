@@ -1,0 +1,22 @@
+Section,Characteristic,Atorvastatin before (n=6534),Other statins before (n=3583),SMD before,Atorvastatin after (n=3537),Other statins after (n=3537),SMD after
+Demographics,"Age at index, years, mean ± SD",57.2 ± 12.0,55.8 ± 13.1,0.106,56.1 ± 12.7,56.0 ± 13.0,0.007
+Demographics,"Male, n (%)","4,337 (66.4)","2,180 (60.8)",0.115,"2,175 (61.5)","2,165 (61.2)",0.006
+Demographics,"Female, n (%)","2,197 (33.6)","1,403 (39.2)",0.115,"1,362 (38.5)","1,372 (38.8)",0.006
+"Diagnoses, n (%)",Diseases of the genitourinary system (N00–N99),"6,470 (99.0)","3,538 (98.7)",0.026,"3,493 (98.8)","3,492 (98.7)",0.003
+"Diagnoses, n (%)",Hypertensive diseases (I10–I1A),"6,277 (96.1)","3,394 (94.7)",0.064,"3,343 (94.5)","3,351 (94.7)",0.010
+"Diagnoses, n (%)",Essential (primary) hypertension (I10),"4,643 (71.1)","2,395 (66.8)",0.091,"2,368 (66.9)","2,376 (67.2)",0.005
+"Diagnoses, n (%)",Diabetes mellitus (E08–E13),"3,930 (60.1)","1,788 (49.9)",0.207,"1,785 (50.5)","1,782 (50.4)",0.002
+"Diagnoses, n (%)",Ischemic heart diseases (I20–I25),"2,880 (44.1)","1,152 (32.2)",0.247,"1,142 (32.3)","1,152 (32.6)",0.006
+"Diagnoses, n (%)",Other disorders of the nervous system (G89–G99),"1,477 (22.6)",744 (20.8),0.045,739 (20.9),737 (20.8),0.001
+"Diagnoses, n (%)",Heart failure (I50),"1,275 (19.5)",542 (15.1),0.116,542 (15.3),540 (15.3),0.002
+"Diagnoses, n (%)",Neoplasms (C00–D49),"1,066 (16.3)",557 (15.5),0.021,546 (15.4),552 (15.6),0.005
+"Diagnoses, n (%)",Kidney transplant failure (T86.12),433 (6.6),339 (9.5),0.104,294 (8.3),300 (8.5),0.006
+"Diagnoses, n (%)",Diseases of liver (K70–K77),495 (7.6),299 (8.3),0.028,283 (8.0),292 (8.3),0.009
+"Diagnoses, n (%)",Kidney transplant rejection (T86.11),235 (3.6),232 (6.5),0.132,211 (6.0),194 (5.5),0.021
+"Diagnoses, n (%)",Tobacco use (Z72.0),53 (0.8),22 (0.6),0.023,23 (0.7),22 (0.6),0.004
+"Medications, n (%)",Immunological agents (IM000),"6,235 (95.4)","3,411 (95.2)",0.011,"3,373 (95.4)","3,368 (95.2)",0.007
+"Medications, n (%)",Beta-blocking agents (C07),"4,566 (69.9)","2,331 (65.1)",0.103,"2,341 (66.2)","2,306 (65.2)",0.021
+"Medications, n (%)",Aspirin,"1,971 (30.2)","1,039 (29.0)",0.026,"1,020 (28.8)","1,025 (29.0)",0.003
+"Medications, n (%)",Agents acting on the renin–angiotensin system (C09),"1,602 (24.5)",855 (23.9),0.015,834 (23.6),845 (23.9),0.007
+Laboratory,"Total cholesterol recorded, n (%)","2,375 (36.3)","1,230 (34.3)",0.042,"1,217 (34.4)","1,213 (34.3)",0.002
+Laboratory,"Total cholesterol, mg/dL, mean ± SDᵃ",146.2 ± 44.2,155.2 ± 51.0,0.189,149.1 ± 45.2,154.6 ± 48.0,0.118

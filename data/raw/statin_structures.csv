@@ -1,0 +1,9 @@
+name,family,administered_form,formula,smiles
+Atorvastatin,Type II,open hydroxy acid,C33H35FN2O5,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O
+Rosuvastatin,Type II,open hydroxy acid,C22H28FN3O6S,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1/C=C/[C@@H](O)C[C@@H](O)CC(=O)O
+Fluvastatin,Type II,open hydroxy acid,C24H26FNO4,CC(C)n1c(/C=C/[C@@H](O)C[C@@H](O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21
+Pitavastatin,Type II,open hydroxy acid,C25H24FNO4,OC(=O)C[C@H](O)C[C@H](O)/C=C/c1c(-c2ccc(F)cc2)c2ccccc2nc1C1CC1
+Cerivastatin,Type II,open hydroxy acid,C26H34FNO5,COCc1c(-c2ccc(F)cc2)c(C(C)C)nc(C(C)C)c1/C=C/[C@@H](O)C[C@@H](O)CC(=O)O
+Simvastatin,Type I,lactone prodrug,C25H38O5,CCC(C)(C)C(=O)O[C@H]1C[C@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12
+Lovastatin,Type I,lactone prodrug,C24H36O5,CC[C@H](C)C(=O)O[C@H]1C[C@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12
+Pravastatin,Type I,open hydroxy acid,C23H36O7,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(=O)O)[C@@H]12

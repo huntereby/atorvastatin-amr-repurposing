@@ -1,0 +1,18 @@
+# Large third-party downloads (re-fetched by scripts/02_lincs_drug_screen.R)
+data/cache/external/
+
+# R / Python
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*~$*
+.~lock*
